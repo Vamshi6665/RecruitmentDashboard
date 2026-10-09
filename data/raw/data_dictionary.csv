@@ -1,0 +1,114 @@
+File,Field,PowerBIType,Definition
+applications_20000.csv,ApplicationID,Text,Stable candidate-job application identifier
+applications_20000.csv,Candidate,Text,Fictional candidate display name
+applications_20000.csv,Job,Text,Position title
+applications_20000.csv,Recruiter,Text,Recruiter display name
+applications_20000.csv,Source,Text,Candidate acquisition channel
+applications_20000.csv,SourcedDate,Date,First Sourced milestone date; blank if not reached
+applications_20000.csv,ContactedDate,Date,First Contacted milestone date; blank if not reached
+applications_20000.csv,SubmittedDate,Date,First Submitted milestone date; blank if not reached
+applications_20000.csv,InterviewDate,Date,First Interview milestone date; blank if not reached
+applications_20000.csv,HiredDate,Date,First Hired milestone date; blank if not reached
+applications_20000.csv,CurrentStage,Text,"Application status at snapshot, not historical status"
+applications_20000.csv,CandidateID,Text,Fictional candidate identifier
+applications_20000.csv,RecruiterID,Text,Recruiter key
+applications_20000.csv,JobID,Text,Requisition key; job titles may repeat
+applications_20000.csv,Client,Text,Client
+applications_20000.csv,ScreenedDate,Date,First Screened milestone date; blank if not reached
+applications_20000.csv,OfferDate,Date,First Offer milestone date; blank if not reached
+applications_20000.csv,RejectedDate,Date,First Rejected milestone date; blank if not reached
+applications_20000.csv,WithdrawnDate,Date,First Withdrawn milestone date; blank if not reached
+applications_20000.csv,ResponseDate,Date,First Response milestone date; blank if not reached
+applications_20000.csv,LastActivityDate,Date,Latest recorded application event through snapshot
+applications_20000.csv,OutreachAttempts,Whole Number,All outreach actions on application through snapshot
+applications_20000.csv,InterviewRounds,Whole Number,All completed interview rounds through snapshot
+applications_20000.csv,RejectionReason,Text,RejectionReason
+applications_20000.csv,AsOfDate,Date,Snapshot cutoff 2026-10-05
+applications_20000.csv,IsSynthetic,Boolean,All records are synthetic
+calendar.csv,Date,Date,First  milestone date; blank if not reached
+calendar.csv,Year,Whole Number,Year
+calendar.csv,Quarter,Text,Quarter
+calendar.csv,MonthNumber,Whole Number,MonthNumber
+calendar.csv,MonthName,Text,MonthName
+calendar.csv,YearMonth,Text,Calendar month in YYYY-MM format
+calendar.csv,YearMonthSort,Whole Number,YearMonthSort
+calendar.csv,WeekStart,Date,WeekStart
+calendar.csv,IsOnOrBeforeAsOf,Boolean,IsOnOrBeforeAsOf
+calendar.csv,AsOfDate,Date,Snapshot cutoff 2026-10-05
+jobs.csv,JobID,Text,Requisition key; job titles may repeat
+jobs.csv,Job,Text,Position title
+jobs.csv,Client,Text,Client
+jobs.csv,Department,Text,Department
+jobs.csv,Location,Text,Location
+jobs.csv,EmploymentType,Text,EmploymentType
+jobs.csv,Seniority,Text,Seniority
+jobs.csv,OwnerRecruiterID,Text,Fixed requisition owner
+jobs.csv,JobOpenDate,Date,JobOpenDate
+jobs.csv,TargetCloseDate,Date,TargetCloseDate
+jobs.csv,Openings,Whole Number,Requested number of hires for requisition
+jobs.csv,JobStatus,Text,"Open, Filled, or Closed - Unfilled at snapshot"
+jobs.csv,JobCloseDate,Date,Final closure date; count filled only when JobStatus is Filled
+jobs.csv,ClosureReason,Text,ClosureReason
+jobs.csv,Hires,Whole Number,Hired applications for this requisition
+jobs.csv,RemainingOpenings,Whole Number,Open slots for currently open jobs
+jobs.csv,UnfilledOpeningsAtClosure,Whole Number,Cancelled unfilled slots on closed jobs
+jobs.csv,AsOfDate,Date,Snapshot cutoff 2026-10-05
+monthly_recruiter_summary.csv,RecruiterID,Text,Recruiter key
+monthly_recruiter_summary.csv,Recruiter,Text,Recruiter display name
+monthly_recruiter_summary.csv,YearMonth,Text,Calendar month in YYYY-MM format
+monthly_recruiter_summary.csv,Sourced,Whole Number,Sourced
+monthly_recruiter_summary.csv,OutreachAttempts,Whole Number,All outreach actions on application through snapshot
+monthly_recruiter_summary.csv,ApplicationsFirstContacted,Whole Number,Applications whose first outreach occurred in this month
+monthly_recruiter_summary.csv,ApplicationsWithOutreach,Whole Number,Distinct applications with any outreach this month; not additive across months
+monthly_recruiter_summary.csv,Submissions,Whole Number,Submissions
+monthly_recruiter_summary.csv,ApplicationsInterviewed,Whole Number,Distinct applications interviewed this month; not additive across months
+monthly_recruiter_summary.csv,InterviewRounds,Whole Number,All completed interview rounds through snapshot
+monthly_recruiter_summary.csv,Hires,Whole Number,Hired applications for this requisition
+monthly_recruiter_summary.csv,FilledJobs,Whole Number,Jobs closed as fully filled in this month
+monthly_recruiter_summary.csv,AsOfDate,Date,Snapshot cutoff 2026-10-05
+recruiters.csv,RecruiterID,Text,Recruiter key
+recruiters.csv,Recruiter,Text,Recruiter display name
+recruiters.csv,RecruiterTitle,Text,RecruiterTitle
+recruiters.csv,Team,Text,Team
+recruiters.csv,Manager,Text,Manager
+recruiters.csv,StartDate,Date,StartDate
+recruitment_events.csv,EventID,Text,Unique activity or milestone key
+recruitment_events.csv,ApplicationID,Text,Stable candidate-job application identifier
+recruitment_events.csv,CandidateID,Text,Fictional candidate identifier
+recruitment_events.csv,JobID,Text,Requisition key; job titles may repeat
+recruitment_events.csv,RecruiterID,Text,Recruiter key
+recruitment_events.csv,Recruiter,Text,Recruiter display name
+recruitment_events.csv,Job,Text,Position title
+recruitment_events.csv,Client,Text,Client
+recruitment_events.csv,Source,Text,Candidate acquisition channel
+recruitment_events.csv,EventType,Text,Action/milestone; includes job-level JobClosed
+recruitment_events.csv,EventDate,Date,Actual action/milestone date; use for activity time filters
+recruitment_events.csv,Channel,Text,"Email, Phone or LinkedIn for outreach"
+recruitment_events.csv,Outcome,Text,Event result; JobClosed outcome is job closure status
+requirement_status_history.csv,StatusHistoryID,Text,StatusHistoryID
+requirement_status_history.csv,JobID,Text,JobID
+requirement_status_history.csv,RecruiterID,Text,RecruiterID
+requirement_status_history.csv,Status,Text,Status
+requirement_status_history.csv,EffectiveFrom,Date,Inclusive start date of status interval
+requirement_status_history.csv,EffectiveTo,Date,Exclusive end date; blank for current status
+requirement_status_history.csv,Reason,Text,Reason
+requirement_status_history.csv,AsOfDate,Date,AsOfDate
+requirement_monthly_snapshots.csv,SnapshotDate,Date,Month-end snapshot or October 5 cutoff
+requirement_monthly_snapshots.csv,YearMonth,Text,YearMonth
+requirement_monthly_snapshots.csv,JobID,Text,JobID
+requirement_monthly_snapshots.csv,RecruiterID,Text,RecruiterID
+requirement_monthly_snapshots.csv,JobStatus,Text,JobStatus
+requirement_monthly_snapshots.csv,RequestedOpenings,Whole Number,RequestedOpenings
+requirement_monthly_snapshots.csv,HiresToDate,Whole Number,HiresToDate
+requirement_monthly_snapshots.csv,RemainingOpenings,Whole Number,RemainingOpenings
+requirement_monthly_snapshots.csv,SubmissionsToDate,Whole Number,SubmissionsToDate
+requirement_monthly_snapshots.csv,HasSubmission,Boolean,At least one submission by snapshot date
+requirement_monthly_snapshots.csv,DaysSinceOpen,Whole Number,DaysSinceOpen
+requirement_monthly_snapshots.csv,AsOfDate,Date,AsOfDate
+monthly_recruiter_summary.csv,NewRequirements,Whole Number,"NewRequirements; flows use event month, stocks use month-end cutoff"
+monthly_recruiter_summary.csv,RequirementsWithSubmissions,Whole Number,"RequirementsWithSubmissions; flows use event month, stocks use month-end cutoff"
+monthly_recruiter_summary.csv,RequirementsEnteredHold,Whole Number,"RequirementsEnteredHold; flows use event month, stocks use month-end cutoff"
+monthly_recruiter_summary.csv,HoldTransitions,Whole Number,"HoldTransitions; flows use event month, stocks use month-end cutoff"
+monthly_recruiter_summary.csv,OpenRequirementsAtMonthEnd,Whole Number,"OpenRequirementsAtMonthEnd; flows use event month, stocks use month-end cutoff"
+monthly_recruiter_summary.csv,OnHoldRequirementsAtMonthEnd,Whole Number,"OnHoldRequirementsAtMonthEnd; flows use event month, stocks use month-end cutoff"
+jobs.csv,EverOnHold,Boolean,At least one hold transition before snapshot

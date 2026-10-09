@@ -1,0 +1,52 @@
+{
+  "as_of": "2026-10-05",
+  "applications": 20000,
+  "events": 145976,
+  "jobs": 340,
+  "recruiters": 10,
+  "event_counts": {
+    "Sourced": 20000,
+    "Contacted": 16730,
+    "Outreach": 41086,
+    "Responded": 13039,
+    "Screened": 12929,
+    "Rejected": 15263,
+    "Submitted": 9622,
+    "Interview": 10836,
+    "Offer": 2277,
+    "Hired": 1892,
+    "Withdrawn": 1381,
+    "JobClosed": 308,
+    "JobOpened": 340,
+    "JobOnHold": 140,
+    "JobReopened": 133
+  },
+  "contacted": 16730,
+  "interviewed": 5456,
+  "filled_jobs": 140,
+  "by_year": {
+    "2024": {
+      "sourced": 7080,
+      "submitted": 3440,
+      "hired": 627
+    },
+    "2025": {
+      "sourced": 7080,
+      "submitted": 3517,
+      "hired": 685
+    },
+    "2026": {
+      "sourced": 5840,
+      "submitted": 2665,
+      "hired": 580
+    }
+  },
+  "status_history_rows": 921,
+  "monthly_snapshot_rows": 6280,
+  "current_job_statuses": {
+    "Closed - Unfilled": 168,
+    "Filled": 140,
+    "Open": 25,
+    "On Hold": 7
+  }
+}

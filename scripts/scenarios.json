@@ -1,0 +1,8 @@
+[
+  { "id": "A", "name": "All data (Power BI default view)", "from": "2024-01-01", "to": "2026-10-05", "recruiter": "", "position": "", "client": "" },
+  { "id": "B", "name": "Calendar 2025", "from": "2025-01-01", "to": "2025-12-31", "recruiter": "", "position": "", "client": "" },
+  { "id": "C", "name": "2026 YTD, Alex", "from": "2026-01-01", "to": "2026-10-05", "recruiter": "R04", "position": "", "client": "" },
+  { "id": "D", "name": "Last 3 months, Data Engineer", "from": "2026-07-06", "to": "2026-10-05", "recruiter": "", "position": "Data Engineer", "client": "" },
+  { "id": "E", "name": "Q2 2024, Demo Client 03", "from": "2024-04-01", "to": "2024-06-30", "recruiter": "", "position": "", "client": "Demo Client 03" },
+  { "id": "F", "name": "2025, Maya, QA Engineer", "from": "2025-01-01", "to": "2025-12-31", "recruiter": "R05", "position": "QA Engineer", "client": "" }
+]

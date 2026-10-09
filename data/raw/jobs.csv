@@ -1,0 +1,341 @@
+JobID,Job,Client,Department,Location,EmploymentType,Seniority,OwnerRecruiterID,JobOpenDate,TargetCloseDate,Openings,JobStatus,JobCloseDate,ClosureReason,Hires,RemainingOpenings,UnfilledOpeningsAtClosure,AsOfDate,EverOnHold
+J0001,Data Engineer,Demo Client 01,Data and Analytics,Austin TX,Full-time,Mid-level,R01,2024-01-01,2024-03-31,7,Closed - Unfilled,2024-04-05,Remaining openings cancelled,4,0,3,2026-10-05,False
+J0002,Java Developer,Demo Client 02,Engineering,Charlotte NC,Full-time,Senior,R02,2024-01-01,2024-03-31,5,Filled,2024-03-04,All openings filled,5,0,0,2026-10-05,False
+J0003,Data Analyst,Demo Client 03,Data and Analytics,Chicago IL,Full-time,Mid-level,R03,2024-01-01,2024-03-31,10,Closed - Unfilled,2024-04-05,Remaining openings cancelled,5,0,5,2026-10-05,False
+J0004,Business Analyst,Demo Client 04,Data and Analytics,Remote,Full-time,Senior,R04,2024-01-01,2024-03-31,8,Filled,2024-02-21,All openings filled,8,0,0,2026-10-05,False
+J0005,Python Developer,Demo Client 05,Engineering,Austin TX,Full-time,Mid-level,R05,2024-01-01,2024-03-31,8,Filled,2024-03-04,All openings filled,8,0,0,2026-10-05,False
+J0006,DevOps Engineer,Demo Client 06,Engineering,Charlotte NC,Full-time,Senior,R06,2024-01-01,2024-03-31,9,Closed - Unfilled,2024-04-05,Remaining openings cancelled,3,0,6,2026-10-05,False
+J0007,Cloud Engineer,Demo Client 07,Engineering,Chicago IL,Full-time,Mid-level,R07,2024-01-01,2024-03-31,10,Closed - Unfilled,2024-04-05,Remaining openings cancelled,4,0,6,2026-10-05,False
+J0008,Full Stack Developer,Demo Client 08,Engineering,Remote,Full-time,Senior,R08,2024-01-01,2024-03-31,8,Closed - Unfilled,2024-04-05,Remaining openings cancelled,7,0,1,2026-10-05,False
+J0009,QA Engineer,Demo Client 01,Engineering,Austin TX,Full-time,Mid-level,R09,2024-01-01,2024-03-31,10,Closed - Unfilled,2024-04-05,Remaining openings cancelled,6,0,4,2026-10-05,False
+J0010,Machine Learning Engineer,Demo Client 02,Data and Analytics,Charlotte NC,Full-time,Senior,R10,2024-01-01,2024-03-31,10,Closed - Unfilled,2024-04-05,Remaining openings cancelled,4,0,6,2026-10-05,False
+J0011,Java Developer,Demo Client 02,Engineering,Austin TX,Contract,Mid-level,R01,2024-01-18,2024-05-01,9,Filled,2024-03-31,All openings filled,9,0,0,2026-10-05,False
+J0012,Data Analyst,Demo Client 03,Data and Analytics,Charlotte NC,Contract,Senior,R02,2024-01-18,2024-05-01,9,Closed - Unfilled,2024-05-06,Remaining openings cancelled,8,0,1,2026-10-05,False
+J0013,Business Analyst,Demo Client 04,Data and Analytics,Chicago IL,Contract,Mid-level,R03,2024-01-18,2024-05-01,10,Closed - Unfilled,2024-05-06,Remaining openings cancelled,4,0,6,2026-10-05,False
+J0014,Python Developer,Demo Client 05,Engineering,Remote,Contract,Senior,R04,2024-01-18,2024-05-01,10,Closed - Unfilled,2024-05-06,Remaining openings cancelled,3,0,7,2026-10-05,False
+J0015,DevOps Engineer,Demo Client 06,Engineering,Austin TX,Contract,Mid-level,R05,2024-01-18,2024-05-01,7,Filled,2024-03-31,All openings filled,7,0,0,2026-10-05,False
+J0016,Cloud Engineer,Demo Client 07,Engineering,Charlotte NC,Contract,Senior,R06,2024-01-18,2024-05-01,9,Filled,2024-04-04,All openings filled,9,0,0,2026-10-05,True
+J0017,Full Stack Developer,Demo Client 08,Engineering,Chicago IL,Contract,Mid-level,R07,2024-01-18,2024-05-01,8,Filled,2024-03-24,All openings filled,8,0,0,2026-10-05,False
+J0018,QA Engineer,Demo Client 01,Engineering,Remote,Contract,Senior,R08,2024-01-18,2024-05-01,9,Closed - Unfilled,2024-05-06,Remaining openings cancelled,7,0,2,2026-10-05,False
+J0019,Machine Learning Engineer,Demo Client 02,Data and Analytics,Austin TX,Contract,Mid-level,R09,2024-01-18,2024-05-01,10,Closed - Unfilled,2024-05-06,Remaining openings cancelled,4,0,6,2026-10-05,False
+J0020,Data Engineer,Demo Client 03,Data and Analytics,Charlotte NC,Contract,Senior,R10,2024-01-18,2024-05-01,7,Filled,2024-04-01,All openings filled,7,0,0,2026-10-05,True
+J0021,Data Analyst,Demo Client 03,Data and Analytics,Austin TX,Full-time,Mid-level,R01,2024-02-16,2024-05-30,5,Closed - Unfilled,2024-06-04,Remaining openings cancelled,1,0,4,2026-10-05,True
+J0022,Business Analyst,Demo Client 04,Data and Analytics,Charlotte NC,Full-time,Senior,R02,2024-02-16,2024-05-30,6,Filled,2024-04-26,All openings filled,6,0,0,2026-10-05,False
+J0023,Python Developer,Demo Client 05,Engineering,Chicago IL,Full-time,Mid-level,R03,2024-02-16,2024-05-30,8,Closed - Unfilled,2024-06-04,Remaining openings cancelled,5,0,3,2026-10-05,False
+J0024,DevOps Engineer,Demo Client 06,Engineering,Remote,Full-time,Senior,R04,2024-02-16,2024-05-30,6,Filled,2024-05-03,All openings filled,6,0,0,2026-10-05,False
+J0025,Cloud Engineer,Demo Client 07,Engineering,Austin TX,Full-time,Mid-level,R05,2024-02-16,2024-05-30,8,Closed - Unfilled,2024-06-04,Remaining openings cancelled,7,0,1,2026-10-05,False
+J0026,Full Stack Developer,Demo Client 08,Engineering,Charlotte NC,Full-time,Senior,R06,2024-02-16,2024-05-30,9,Closed - Unfilled,2024-06-04,Remaining openings cancelled,6,0,3,2026-10-05,True
+J0027,QA Engineer,Demo Client 01,Engineering,Chicago IL,Full-time,Mid-level,R07,2024-02-16,2024-05-30,10,Closed - Unfilled,2024-06-04,Remaining openings cancelled,8,0,2,2026-10-05,False
+J0028,Machine Learning Engineer,Demo Client 02,Data and Analytics,Remote,Full-time,Senior,R08,2024-02-16,2024-05-30,7,Filled,2024-05-07,All openings filled,7,0,0,2026-10-05,True
+J0029,Data Engineer,Demo Client 03,Data and Analytics,Austin TX,Full-time,Mid-level,R09,2024-02-16,2024-05-30,9,Closed - Unfilled,2024-06-04,Remaining openings cancelled,4,0,5,2026-10-05,False
+J0030,Java Developer,Demo Client 04,Engineering,Charlotte NC,Full-time,Senior,R10,2024-02-16,2024-05-30,8,Closed - Unfilled,2024-06-04,Remaining openings cancelled,3,0,5,2026-10-05,False
+J0031,Business Analyst,Demo Client 04,Data and Analytics,Austin TX,Contract,Mid-level,R01,2024-03-18,2024-06-30,9,Closed - Unfilled,2024-07-05,Remaining openings cancelled,5,0,4,2026-10-05,True
+J0032,Python Developer,Demo Client 05,Engineering,Charlotte NC,Contract,Senior,R02,2024-03-18,2024-06-30,10,Closed - Unfilled,2024-07-05,Remaining openings cancelled,6,0,4,2026-10-05,True
+J0033,DevOps Engineer,Demo Client 06,Engineering,Chicago IL,Contract,Mid-level,R03,2024-03-18,2024-06-30,5,Closed - Unfilled,2024-07-05,Remaining openings cancelled,4,0,1,2026-10-05,True
+J0034,Cloud Engineer,Demo Client 07,Engineering,Remote,Contract,Senior,R04,2024-03-18,2024-06-30,10,Closed - Unfilled,2024-07-05,Remaining openings cancelled,8,0,2,2026-10-05,True
+J0035,Full Stack Developer,Demo Client 08,Engineering,Austin TX,Contract,Mid-level,R05,2024-03-18,2024-06-30,8,Closed - Unfilled,2024-07-05,Remaining openings cancelled,5,0,3,2026-10-05,True
+J0036,QA Engineer,Demo Client 01,Engineering,Charlotte NC,Contract,Senior,R06,2024-03-18,2024-06-30,10,Closed - Unfilled,2024-07-05,Remaining openings cancelled,9,0,1,2026-10-05,True
+J0037,Machine Learning Engineer,Demo Client 02,Data and Analytics,Chicago IL,Contract,Mid-level,R07,2024-03-18,2024-06-30,8,Closed - Unfilled,2024-07-05,Remaining openings cancelled,6,0,2,2026-10-05,False
+J0038,Data Engineer,Demo Client 03,Data and Analytics,Remote,Contract,Senior,R08,2024-03-18,2024-06-30,7,Filled,2024-05-31,All openings filled,7,0,0,2026-10-05,True
+J0039,Java Developer,Demo Client 04,Engineering,Austin TX,Contract,Mid-level,R09,2024-03-18,2024-06-30,7,Closed - Unfilled,2024-07-05,Remaining openings cancelled,5,0,2,2026-10-05,True
+J0040,Data Analyst,Demo Client 05,Data and Analytics,Charlotte NC,Contract,Senior,R10,2024-03-18,2024-06-30,6,Filled,2024-05-25,All openings filled,6,0,0,2026-10-05,False
+J0041,Python Developer,Demo Client 05,Engineering,Austin TX,Full-time,Mid-level,R01,2024-04-17,2024-07-30,5,Filled,2024-06-21,All openings filled,5,0,0,2026-10-05,True
+J0042,DevOps Engineer,Demo Client 06,Engineering,Charlotte NC,Full-time,Senior,R02,2024-04-17,2024-07-30,5,Filled,2024-06-26,All openings filled,5,0,0,2026-10-05,False
+J0043,Cloud Engineer,Demo Client 07,Engineering,Chicago IL,Full-time,Mid-level,R03,2024-04-17,2024-07-30,7,Filled,2024-06-27,All openings filled,7,0,0,2026-10-05,False
+J0044,Full Stack Developer,Demo Client 08,Engineering,Remote,Full-time,Senior,R04,2024-04-17,2024-07-30,7,Closed - Unfilled,2024-08-04,Remaining openings cancelled,6,0,1,2026-10-05,False
+J0045,QA Engineer,Demo Client 01,Engineering,Austin TX,Full-time,Mid-level,R05,2024-04-17,2024-07-30,9,Closed - Unfilled,2024-08-04,Remaining openings cancelled,4,0,5,2026-10-05,False
+J0046,Machine Learning Engineer,Demo Client 02,Data and Analytics,Charlotte NC,Full-time,Senior,R06,2024-04-17,2024-07-30,7,Filled,2024-07-02,All openings filled,7,0,0,2026-10-05,True
+J0047,Data Engineer,Demo Client 03,Data and Analytics,Chicago IL,Full-time,Mid-level,R07,2024-04-17,2024-07-30,8,Closed - Unfilled,2024-08-04,Remaining openings cancelled,7,0,1,2026-10-05,False
+J0048,Java Developer,Demo Client 04,Engineering,Remote,Full-time,Senior,R08,2024-04-17,2024-07-30,9,Filled,2024-07-09,All openings filled,9,0,0,2026-10-05,False
+J0049,Data Analyst,Demo Client 05,Data and Analytics,Austin TX,Full-time,Mid-level,R09,2024-04-17,2024-07-30,6,Closed - Unfilled,2024-08-04,Remaining openings cancelled,4,0,2,2026-10-05,False
+J0050,Business Analyst,Demo Client 06,Data and Analytics,Charlotte NC,Full-time,Senior,R10,2024-04-17,2024-07-30,10,Closed - Unfilled,2024-08-04,Remaining openings cancelled,3,0,7,2026-10-05,False
+J0051,DevOps Engineer,Demo Client 06,Engineering,Austin TX,Contract,Mid-level,R01,2024-05-18,2024-08-30,10,Closed - Unfilled,2024-09-04,Remaining openings cancelled,6,0,4,2026-10-05,False
+J0052,Cloud Engineer,Demo Client 07,Engineering,Charlotte NC,Contract,Senior,R02,2024-05-18,2024-08-30,9,Closed - Unfilled,2024-09-04,Remaining openings cancelled,4,0,5,2026-10-05,False
+J0053,Full Stack Developer,Demo Client 08,Engineering,Chicago IL,Contract,Mid-level,R03,2024-05-18,2024-08-30,10,Closed - Unfilled,2024-09-04,Remaining openings cancelled,9,0,1,2026-10-05,True
+J0054,QA Engineer,Demo Client 01,Engineering,Remote,Contract,Senior,R04,2024-05-18,2024-08-30,6,Filled,2024-07-30,All openings filled,6,0,0,2026-10-05,True
+J0055,Machine Learning Engineer,Demo Client 02,Data and Analytics,Austin TX,Contract,Mid-level,R05,2024-05-18,2024-08-30,5,Filled,2024-07-24,All openings filled,5,0,0,2026-10-05,False
+J0056,Data Engineer,Demo Client 03,Data and Analytics,Charlotte NC,Contract,Senior,R06,2024-05-18,2024-08-30,8,Closed - Unfilled,2024-09-04,Remaining openings cancelled,5,0,3,2026-10-05,False
+J0057,Java Developer,Demo Client 04,Engineering,Chicago IL,Contract,Mid-level,R07,2024-05-18,2024-08-30,6,Closed - Unfilled,2024-09-04,Remaining openings cancelled,3,0,3,2026-10-05,True
+J0058,Data Analyst,Demo Client 05,Data and Analytics,Remote,Contract,Senior,R08,2024-05-18,2024-08-30,10,Closed - Unfilled,2024-09-04,Remaining openings cancelled,2,0,8,2026-10-05,False
+J0059,Business Analyst,Demo Client 06,Data and Analytics,Austin TX,Contract,Mid-level,R09,2024-05-18,2024-08-30,6,Filled,2024-07-30,All openings filled,6,0,0,2026-10-05,False
+J0060,Python Developer,Demo Client 07,Engineering,Charlotte NC,Contract,Senior,R10,2024-05-18,2024-08-30,8,Closed - Unfilled,2024-09-04,Remaining openings cancelled,6,0,2,2026-10-05,False
+J0061,Cloud Engineer,Demo Client 07,Engineering,Austin TX,Full-time,Mid-level,R01,2024-06-17,2024-09-29,7,Closed - Unfilled,2024-10-04,Remaining openings cancelled,3,0,4,2026-10-05,True
+J0062,Full Stack Developer,Demo Client 08,Engineering,Charlotte NC,Full-time,Senior,R02,2024-06-17,2024-09-29,9,Closed - Unfilled,2024-10-04,Remaining openings cancelled,5,0,4,2026-10-05,True
+J0063,QA Engineer,Demo Client 01,Engineering,Chicago IL,Full-time,Mid-level,R03,2024-06-17,2024-09-29,10,Closed - Unfilled,2024-10-04,Remaining openings cancelled,8,0,2,2026-10-05,False
+J0064,Machine Learning Engineer,Demo Client 02,Data and Analytics,Remote,Full-time,Senior,R04,2024-06-17,2024-09-29,9,Closed - Unfilled,2024-10-04,Remaining openings cancelled,5,0,4,2026-10-05,True
+J0065,Data Engineer,Demo Client 03,Data and Analytics,Austin TX,Full-time,Mid-level,R05,2024-06-17,2024-09-29,9,Filled,2024-09-01,All openings filled,9,0,0,2026-10-05,False
+J0066,Java Developer,Demo Client 04,Engineering,Charlotte NC,Full-time,Senior,R06,2024-06-17,2024-09-29,5,Closed - Unfilled,2024-10-04,Remaining openings cancelled,4,0,1,2026-10-05,False
+J0067,Data Analyst,Demo Client 05,Data and Analytics,Chicago IL,Full-time,Mid-level,R07,2024-06-17,2024-09-29,7,Closed - Unfilled,2024-10-04,Remaining openings cancelled,3,0,4,2026-10-05,False
+J0068,Business Analyst,Demo Client 06,Data and Analytics,Remote,Full-time,Senior,R08,2024-06-17,2024-09-29,5,Filled,2024-09-01,All openings filled,5,0,0,2026-10-05,False
+J0069,Python Developer,Demo Client 07,Engineering,Austin TX,Full-time,Mid-level,R09,2024-06-17,2024-09-29,8,Filled,2024-09-06,All openings filled,8,0,0,2026-10-05,False
+J0070,DevOps Engineer,Demo Client 08,Engineering,Charlotte NC,Full-time,Senior,R10,2024-06-17,2024-09-29,10,Closed - Unfilled,2024-10-04,Remaining openings cancelled,5,0,5,2026-10-05,False
+J0071,Full Stack Developer,Demo Client 08,Engineering,Austin TX,Contract,Mid-level,R01,2024-07-18,2024-10-30,10,Closed - Unfilled,2024-11-04,Remaining openings cancelled,1,0,9,2026-10-05,False
+J0072,QA Engineer,Demo Client 01,Engineering,Charlotte NC,Contract,Senior,R02,2024-07-18,2024-10-30,6,Filled,2024-10-01,All openings filled,6,0,0,2026-10-05,False
+J0073,Machine Learning Engineer,Demo Client 02,Data and Analytics,Chicago IL,Contract,Mid-level,R03,2024-07-18,2024-10-30,7,Filled,2024-10-06,All openings filled,7,0,0,2026-10-05,True
+J0074,Data Engineer,Demo Client 03,Data and Analytics,Remote,Contract,Senior,R04,2024-07-18,2024-10-30,7,Filled,2024-09-28,All openings filled,7,0,0,2026-10-05,False
+J0075,Java Developer,Demo Client 04,Engineering,Austin TX,Contract,Mid-level,R05,2024-07-18,2024-10-30,10,Closed - Unfilled,2024-11-04,Remaining openings cancelled,7,0,3,2026-10-05,True
+J0076,Data Analyst,Demo Client 05,Data and Analytics,Charlotte NC,Contract,Senior,R06,2024-07-18,2024-10-30,6,Filled,2024-09-22,All openings filled,6,0,0,2026-10-05,True
+J0077,Business Analyst,Demo Client 06,Data and Analytics,Chicago IL,Contract,Mid-level,R07,2024-07-18,2024-10-30,10,Closed - Unfilled,2024-11-04,Remaining openings cancelled,9,0,1,2026-10-05,True
+J0078,Python Developer,Demo Client 07,Engineering,Remote,Contract,Senior,R08,2024-07-18,2024-10-30,5,Filled,2024-09-21,All openings filled,5,0,0,2026-10-05,True
+J0079,DevOps Engineer,Demo Client 08,Engineering,Austin TX,Contract,Mid-level,R09,2024-07-18,2024-10-30,10,Closed - Unfilled,2024-11-04,Remaining openings cancelled,7,0,3,2026-10-05,False
+J0080,Cloud Engineer,Demo Client 01,Engineering,Charlotte NC,Contract,Senior,R10,2024-07-18,2024-10-30,8,Closed - Unfilled,2024-11-04,Remaining openings cancelled,4,0,4,2026-10-05,False
+J0081,QA Engineer,Demo Client 01,Engineering,Austin TX,Full-time,Mid-level,R01,2024-08-18,2024-11-30,5,Filled,2024-10-31,All openings filled,5,0,0,2026-10-05,False
+J0082,Machine Learning Engineer,Demo Client 02,Data and Analytics,Charlotte NC,Full-time,Senior,R02,2024-08-18,2024-11-30,7,Filled,2024-10-31,All openings filled,7,0,0,2026-10-05,True
+J0083,Data Engineer,Demo Client 03,Data and Analytics,Chicago IL,Full-time,Mid-level,R03,2024-08-18,2024-11-30,5,Filled,2024-10-29,All openings filled,5,0,0,2026-10-05,True
+J0084,Java Developer,Demo Client 04,Engineering,Remote,Full-time,Senior,R04,2024-08-18,2024-11-30,6,Filled,2024-10-28,All openings filled,6,0,0,2026-10-05,False
+J0085,Data Analyst,Demo Client 05,Data and Analytics,Austin TX,Full-time,Mid-level,R05,2024-08-18,2024-11-30,7,Filled,2024-10-21,All openings filled,7,0,0,2026-10-05,False
+J0086,Business Analyst,Demo Client 06,Data and Analytics,Charlotte NC,Full-time,Senior,R06,2024-08-18,2024-11-30,5,Filled,2024-10-20,All openings filled,5,0,0,2026-10-05,False
+J0087,Python Developer,Demo Client 07,Engineering,Chicago IL,Full-time,Mid-level,R07,2024-08-18,2024-11-30,7,Filled,2024-10-30,All openings filled,7,0,0,2026-10-05,False
+J0088,DevOps Engineer,Demo Client 08,Engineering,Remote,Full-time,Senior,R08,2024-08-18,2024-11-30,8,Closed - Unfilled,2024-12-05,Remaining openings cancelled,4,0,4,2026-10-05,True
+J0089,Cloud Engineer,Demo Client 01,Engineering,Austin TX,Full-time,Mid-level,R09,2024-08-18,2024-11-30,6,Filled,2024-11-04,All openings filled,6,0,0,2026-10-05,False
+J0090,Full Stack Developer,Demo Client 02,Engineering,Charlotte NC,Full-time,Senior,R10,2024-08-18,2024-11-30,8,Filled,2024-10-28,All openings filled,8,0,0,2026-10-05,True
+J0091,Machine Learning Engineer,Demo Client 02,Data and Analytics,Austin TX,Contract,Mid-level,R01,2024-09-17,2024-12-30,10,Closed - Unfilled,2025-01-04,Remaining openings cancelled,4,0,6,2026-10-05,True
+J0092,Data Engineer,Demo Client 03,Data and Analytics,Charlotte NC,Contract,Senior,R02,2024-09-17,2024-12-30,9,Closed - Unfilled,2025-01-04,Remaining openings cancelled,2,0,7,2026-10-05,False
+J0093,Java Developer,Demo Client 04,Engineering,Chicago IL,Contract,Mid-level,R03,2024-09-17,2024-12-30,10,Closed - Unfilled,2025-01-04,Remaining openings cancelled,6,0,4,2026-10-05,False
+J0094,Data Analyst,Demo Client 05,Data and Analytics,Remote,Contract,Senior,R04,2024-09-17,2024-12-30,7,Closed - Unfilled,2025-01-04,Remaining openings cancelled,6,0,1,2026-10-05,False
+J0095,Business Analyst,Demo Client 06,Data and Analytics,Austin TX,Contract,Mid-level,R05,2024-09-17,2024-12-30,9,Closed - Unfilled,2025-01-04,Remaining openings cancelled,4,0,5,2026-10-05,False
+J0096,Python Developer,Demo Client 07,Engineering,Charlotte NC,Contract,Senior,R06,2024-09-17,2024-12-30,7,Closed - Unfilled,2025-01-04,Remaining openings cancelled,4,0,3,2026-10-05,False
+J0097,DevOps Engineer,Demo Client 08,Engineering,Chicago IL,Contract,Mid-level,R07,2024-09-17,2024-12-30,6,Filled,2024-11-25,All openings filled,6,0,0,2026-10-05,False
+J0098,Cloud Engineer,Demo Client 01,Engineering,Remote,Contract,Senior,R08,2024-09-17,2024-12-30,6,Filled,2024-12-02,All openings filled,6,0,0,2026-10-05,False
+J0099,Full Stack Developer,Demo Client 02,Engineering,Austin TX,Contract,Mid-level,R09,2024-09-17,2024-12-30,6,Filled,2024-11-24,All openings filled,6,0,0,2026-10-05,True
+J0100,QA Engineer,Demo Client 03,Engineering,Charlotte NC,Contract,Senior,R10,2024-09-17,2024-12-30,9,Filled,2024-12-13,All openings filled,9,0,0,2026-10-05,False
+J0101,Data Engineer,Demo Client 03,Data and Analytics,Austin TX,Full-time,Mid-level,R01,2024-10-18,2025-01-30,7,Closed - Unfilled,2025-02-04,Remaining openings cancelled,3,0,4,2026-10-05,False
+J0102,Java Developer,Demo Client 04,Engineering,Charlotte NC,Full-time,Senior,R02,2024-10-18,2025-01-30,5,Filled,2024-12-25,All openings filled,5,0,0,2026-10-05,True
+J0103,Data Analyst,Demo Client 05,Data and Analytics,Chicago IL,Full-time,Mid-level,R03,2024-10-18,2025-01-30,8,Filled,2024-12-30,All openings filled,8,0,0,2026-10-05,False
+J0104,Business Analyst,Demo Client 06,Data and Analytics,Remote,Full-time,Senior,R04,2024-10-18,2025-01-30,8,Filled,2024-12-26,All openings filled,8,0,0,2026-10-05,False
+J0105,Python Developer,Demo Client 07,Engineering,Austin TX,Full-time,Mid-level,R05,2024-10-18,2025-01-30,5,Filled,2024-12-26,All openings filled,5,0,0,2026-10-05,False
+J0106,DevOps Engineer,Demo Client 08,Engineering,Charlotte NC,Full-time,Senior,R06,2024-10-18,2025-01-30,6,Closed - Unfilled,2025-02-04,Remaining openings cancelled,3,0,3,2026-10-05,True
+J0107,Cloud Engineer,Demo Client 01,Engineering,Chicago IL,Full-time,Mid-level,R07,2024-10-18,2025-01-30,10,Closed - Unfilled,2025-02-04,Remaining openings cancelled,8,0,2,2026-10-05,True
+J0108,Full Stack Developer,Demo Client 02,Engineering,Remote,Full-time,Senior,R08,2024-10-18,2025-01-30,8,Closed - Unfilled,2025-02-04,Remaining openings cancelled,2,0,6,2026-10-05,False
+J0109,QA Engineer,Demo Client 03,Engineering,Austin TX,Full-time,Mid-level,R09,2024-10-18,2025-01-30,9,Closed - Unfilled,2025-02-04,Remaining openings cancelled,3,0,6,2026-10-05,True
+J0110,Machine Learning Engineer,Demo Client 04,Data and Analytics,Charlotte NC,Full-time,Senior,R10,2024-10-18,2025-01-30,5,Filled,2024-12-26,All openings filled,5,0,0,2026-10-05,True
+J0111,Java Developer,Demo Client 04,Engineering,Austin TX,Contract,Mid-level,R01,2024-11-17,2025-03-01,8,Closed - Unfilled,2025-03-06,Remaining openings cancelled,7,0,1,2026-10-05,False
+J0112,Data Analyst,Demo Client 05,Data and Analytics,Charlotte NC,Contract,Senior,R02,2024-11-17,2025-03-01,6,Filled,2025-01-26,All openings filled,6,0,0,2026-10-05,False
+J0113,Business Analyst,Demo Client 06,Data and Analytics,Chicago IL,Contract,Mid-level,R03,2024-11-17,2025-03-01,8,Filled,2025-01-30,All openings filled,8,0,0,2026-10-05,False
+J0114,Python Developer,Demo Client 07,Engineering,Remote,Contract,Senior,R04,2024-11-17,2025-03-01,5,Filled,2025-01-22,All openings filled,5,0,0,2026-10-05,True
+J0115,DevOps Engineer,Demo Client 08,Engineering,Austin TX,Contract,Mid-level,R05,2024-11-17,2025-03-01,10,Closed - Unfilled,2025-03-06,Remaining openings cancelled,7,0,3,2026-10-05,False
+J0116,Cloud Engineer,Demo Client 01,Engineering,Charlotte NC,Contract,Senior,R06,2024-11-17,2025-03-01,5,Filled,2025-01-31,All openings filled,5,0,0,2026-10-05,True
+J0117,Full Stack Developer,Demo Client 02,Engineering,Chicago IL,Contract,Mid-level,R07,2024-11-17,2025-03-01,8,Filled,2025-01-23,All openings filled,8,0,0,2026-10-05,False
+J0118,QA Engineer,Demo Client 03,Engineering,Remote,Contract,Senior,R08,2024-11-17,2025-03-01,8,Closed - Unfilled,2025-03-06,Remaining openings cancelled,7,0,1,2026-10-05,False
+J0119,Machine Learning Engineer,Demo Client 04,Data and Analytics,Austin TX,Contract,Mid-level,R09,2024-11-17,2025-03-01,8,Closed - Unfilled,2025-03-06,Remaining openings cancelled,4,0,4,2026-10-05,True
+J0120,Data Engineer,Demo Client 05,Data and Analytics,Charlotte NC,Contract,Senior,R10,2024-11-17,2025-03-01,9,Filled,2025-01-25,All openings filled,9,0,0,2026-10-05,False
+J0121,Data Analyst,Demo Client 05,Data and Analytics,Austin TX,Full-time,Mid-level,R01,2024-12-18,2025-04-01,9,Closed - Unfilled,2025-04-06,Remaining openings cancelled,5,0,4,2026-10-05,False
+J0122,Business Analyst,Demo Client 06,Data and Analytics,Charlotte NC,Full-time,Senior,R02,2024-12-18,2025-04-01,10,Closed - Unfilled,2025-04-06,Remaining openings cancelled,5,0,5,2026-10-05,True
+J0123,Python Developer,Demo Client 07,Engineering,Chicago IL,Full-time,Mid-level,R03,2024-12-18,2025-04-01,7,Closed - Unfilled,2025-04-06,Remaining openings cancelled,6,0,1,2026-10-05,True
+J0124,DevOps Engineer,Demo Client 08,Engineering,Remote,Full-time,Senior,R04,2024-12-18,2025-04-01,8,Closed - Unfilled,2025-04-06,Remaining openings cancelled,7,0,1,2026-10-05,False
+J0125,Cloud Engineer,Demo Client 01,Engineering,Austin TX,Full-time,Mid-level,R05,2024-12-18,2025-04-01,5,Filled,2025-03-01,All openings filled,5,0,0,2026-10-05,False
+J0126,Full Stack Developer,Demo Client 02,Engineering,Charlotte NC,Full-time,Senior,R06,2024-12-18,2025-04-01,8,Filled,2025-02-27,All openings filled,8,0,0,2026-10-05,False
+J0127,QA Engineer,Demo Client 03,Engineering,Chicago IL,Full-time,Mid-level,R07,2024-12-18,2025-04-01,9,Closed - Unfilled,2025-04-06,Remaining openings cancelled,7,0,2,2026-10-05,False
+J0128,Machine Learning Engineer,Demo Client 04,Data and Analytics,Remote,Full-time,Senior,R08,2024-12-18,2025-04-01,10,Filled,2025-03-09,All openings filled,10,0,0,2026-10-05,False
+J0129,Data Engineer,Demo Client 05,Data and Analytics,Austin TX,Full-time,Mid-level,R09,2024-12-18,2025-04-01,9,Closed - Unfilled,2025-04-06,Remaining openings cancelled,5,0,4,2026-10-05,True
+J0130,Java Developer,Demo Client 06,Engineering,Charlotte NC,Full-time,Senior,R10,2024-12-18,2025-04-01,7,Closed - Unfilled,2025-04-06,Remaining openings cancelled,5,0,2,2026-10-05,True
+J0131,Business Analyst,Demo Client 06,Data and Analytics,Austin TX,Contract,Mid-level,R01,2025-01-18,2025-05-02,6,Closed - Unfilled,2025-05-07,Remaining openings cancelled,5,0,1,2026-10-05,False
+J0132,Python Developer,Demo Client 07,Engineering,Charlotte NC,Contract,Senior,R02,2025-01-18,2025-05-02,9,Closed - Unfilled,2025-05-07,Remaining openings cancelled,4,0,5,2026-10-05,False
+J0133,DevOps Engineer,Demo Client 08,Engineering,Chicago IL,Contract,Mid-level,R03,2025-01-18,2025-05-02,6,Filled,2025-03-27,All openings filled,6,0,0,2026-10-05,False
+J0134,Cloud Engineer,Demo Client 01,Engineering,Remote,Contract,Senior,R04,2025-01-18,2025-05-02,8,Filled,2025-03-30,All openings filled,8,0,0,2026-10-05,False
+J0135,Full Stack Developer,Demo Client 02,Engineering,Austin TX,Contract,Mid-level,R05,2025-01-18,2025-05-02,10,Closed - Unfilled,2025-05-07,Remaining openings cancelled,7,0,3,2026-10-05,True
+J0136,QA Engineer,Demo Client 03,Engineering,Charlotte NC,Contract,Senior,R06,2025-01-18,2025-05-02,8,Filled,2025-03-27,All openings filled,8,0,0,2026-10-05,True
+J0137,Machine Learning Engineer,Demo Client 04,Data and Analytics,Chicago IL,Contract,Mid-level,R07,2025-01-18,2025-05-02,10,Closed - Unfilled,2025-05-07,Remaining openings cancelled,9,0,1,2026-10-05,False
+J0138,Data Engineer,Demo Client 05,Data and Analytics,Remote,Contract,Senior,R08,2025-01-18,2025-05-02,5,Filled,2025-03-28,All openings filled,5,0,0,2026-10-05,False
+J0139,Java Developer,Demo Client 06,Engineering,Austin TX,Contract,Mid-level,R09,2025-01-18,2025-05-02,6,Filled,2025-03-25,All openings filled,6,0,0,2026-10-05,True
+J0140,Data Analyst,Demo Client 07,Data and Analytics,Charlotte NC,Contract,Senior,R10,2025-01-18,2025-05-02,9,Closed - Unfilled,2025-05-07,Remaining openings cancelled,3,0,6,2026-10-05,False
+J0141,Python Developer,Demo Client 07,Engineering,Austin TX,Full-time,Mid-level,R01,2025-02-15,2025-05-30,5,Filled,2025-04-28,All openings filled,5,0,0,2026-10-05,True
+J0142,DevOps Engineer,Demo Client 08,Engineering,Charlotte NC,Full-time,Senior,R02,2025-02-15,2025-05-30,8,Closed - Unfilled,2025-06-04,Remaining openings cancelled,7,0,1,2026-10-05,False
+J0143,Cloud Engineer,Demo Client 01,Engineering,Chicago IL,Full-time,Mid-level,R03,2025-02-15,2025-05-30,9,Closed - Unfilled,2025-06-04,Remaining openings cancelled,8,0,1,2026-10-05,True
+J0144,Full Stack Developer,Demo Client 02,Engineering,Remote,Full-time,Senior,R04,2025-02-15,2025-05-30,8,Closed - Unfilled,2025-06-04,Remaining openings cancelled,4,0,4,2026-10-05,True
+J0145,QA Engineer,Demo Client 03,Engineering,Austin TX,Full-time,Mid-level,R05,2025-02-15,2025-05-30,9,Closed - Unfilled,2025-06-04,Remaining openings cancelled,5,0,4,2026-10-05,False
+J0146,Machine Learning Engineer,Demo Client 04,Data and Analytics,Charlotte NC,Full-time,Senior,R06,2025-02-15,2025-05-30,5,Filled,2025-04-25,All openings filled,5,0,0,2026-10-05,False
+J0147,Data Engineer,Demo Client 05,Data and Analytics,Chicago IL,Full-time,Mid-level,R07,2025-02-15,2025-05-30,6,Closed - Unfilled,2025-06-04,Remaining openings cancelled,3,0,3,2026-10-05,False
+J0148,Java Developer,Demo Client 06,Engineering,Remote,Full-time,Senior,R08,2025-02-15,2025-05-30,7,Closed - Unfilled,2025-06-04,Remaining openings cancelled,3,0,4,2026-10-05,False
+J0149,Data Analyst,Demo Client 07,Data and Analytics,Austin TX,Full-time,Mid-level,R09,2025-02-15,2025-05-30,7,Filled,2025-04-28,All openings filled,7,0,0,2026-10-05,True
+J0150,Business Analyst,Demo Client 08,Data and Analytics,Charlotte NC,Full-time,Senior,R10,2025-02-15,2025-05-30,8,Closed - Unfilled,2025-06-04,Remaining openings cancelled,5,0,3,2026-10-05,False
+J0151,DevOps Engineer,Demo Client 08,Engineering,Austin TX,Contract,Mid-level,R01,2025-03-18,2025-06-30,6,Closed - Unfilled,2025-07-05,Remaining openings cancelled,3,0,3,2026-10-05,False
+J0152,Cloud Engineer,Demo Client 01,Engineering,Charlotte NC,Contract,Senior,R02,2025-03-18,2025-06-30,8,Filled,2025-05-30,All openings filled,8,0,0,2026-10-05,False
+J0153,Full Stack Developer,Demo Client 02,Engineering,Chicago IL,Contract,Mid-level,R03,2025-03-18,2025-06-30,10,Closed - Unfilled,2025-07-05,Remaining openings cancelled,8,0,2,2026-10-05,False
+J0154,QA Engineer,Demo Client 03,Engineering,Remote,Contract,Senior,R04,2025-03-18,2025-06-30,6,Closed - Unfilled,2025-07-05,Remaining openings cancelled,5,0,1,2026-10-05,True
+J0155,Machine Learning Engineer,Demo Client 04,Data and Analytics,Austin TX,Contract,Mid-level,R05,2025-03-18,2025-06-30,9,Closed - Unfilled,2025-07-05,Remaining openings cancelled,6,0,3,2026-10-05,True
+J0156,Data Engineer,Demo Client 05,Data and Analytics,Charlotte NC,Contract,Senior,R06,2025-03-18,2025-06-30,6,Filled,2025-05-27,All openings filled,6,0,0,2026-10-05,False
+J0157,Java Developer,Demo Client 06,Engineering,Chicago IL,Contract,Mid-level,R07,2025-03-18,2025-06-30,5,Filled,2025-05-29,All openings filled,5,0,0,2026-10-05,False
+J0158,Data Analyst,Demo Client 07,Data and Analytics,Remote,Contract,Senior,R08,2025-03-18,2025-06-30,7,Closed - Unfilled,2025-07-05,Remaining openings cancelled,4,0,3,2026-10-05,True
+J0159,Business Analyst,Demo Client 08,Data and Analytics,Austin TX,Contract,Mid-level,R09,2025-03-18,2025-06-30,6,Closed - Unfilled,2025-07-05,Remaining openings cancelled,4,0,2,2026-10-05,False
+J0160,Python Developer,Demo Client 01,Engineering,Charlotte NC,Contract,Senior,R10,2025-03-18,2025-06-30,8,Closed - Unfilled,2025-07-05,Remaining openings cancelled,4,0,4,2026-10-05,True
+J0161,Cloud Engineer,Demo Client 01,Engineering,Austin TX,Full-time,Mid-level,R01,2025-04-17,2025-07-30,5,Closed - Unfilled,2025-08-04,Remaining openings cancelled,4,0,1,2026-10-05,True
+J0162,Full Stack Developer,Demo Client 02,Engineering,Charlotte NC,Full-time,Senior,R02,2025-04-17,2025-07-30,9,Closed - Unfilled,2025-08-04,Remaining openings cancelled,4,0,5,2026-10-05,True
+J0163,QA Engineer,Demo Client 03,Engineering,Chicago IL,Full-time,Mid-level,R03,2025-04-17,2025-07-30,7,Closed - Unfilled,2025-08-04,Remaining openings cancelled,1,0,6,2026-10-05,True
+J0164,Machine Learning Engineer,Demo Client 04,Data and Analytics,Remote,Full-time,Senior,R04,2025-04-17,2025-07-30,9,Filled,2025-06-27,All openings filled,9,0,0,2026-10-05,False
+J0165,Data Engineer,Demo Client 05,Data and Analytics,Austin TX,Full-time,Mid-level,R05,2025-04-17,2025-07-30,7,Closed - Unfilled,2025-08-04,Remaining openings cancelled,6,0,1,2026-10-05,False
+J0166,Java Developer,Demo Client 06,Engineering,Charlotte NC,Full-time,Senior,R06,2025-04-17,2025-07-30,8,Filled,2025-07-12,All openings filled,8,0,0,2026-10-05,False
+J0167,Data Analyst,Demo Client 07,Data and Analytics,Chicago IL,Full-time,Mid-level,R07,2025-04-17,2025-07-30,7,Filled,2025-07-04,All openings filled,7,0,0,2026-10-05,True
+J0168,Business Analyst,Demo Client 08,Data and Analytics,Remote,Full-time,Senior,R08,2025-04-17,2025-07-30,10,Closed - Unfilled,2025-08-04,Remaining openings cancelled,1,0,9,2026-10-05,True
+J0169,Python Developer,Demo Client 01,Engineering,Austin TX,Full-time,Mid-level,R09,2025-04-17,2025-07-30,7,Filled,2025-06-28,All openings filled,7,0,0,2026-10-05,True
+J0170,DevOps Engineer,Demo Client 02,Engineering,Charlotte NC,Full-time,Senior,R10,2025-04-17,2025-07-30,9,Closed - Unfilled,2025-08-04,Remaining openings cancelled,6,0,3,2026-10-05,True
+J0171,Full Stack Developer,Demo Client 02,Engineering,Austin TX,Contract,Mid-level,R01,2025-05-18,2025-08-30,7,Filled,2025-08-02,All openings filled,7,0,0,2026-10-05,False
+J0172,QA Engineer,Demo Client 03,Engineering,Charlotte NC,Contract,Senior,R02,2025-05-18,2025-08-30,7,Filled,2025-07-31,All openings filled,7,0,0,2026-10-05,True
+J0173,Machine Learning Engineer,Demo Client 04,Data and Analytics,Chicago IL,Contract,Mid-level,R03,2025-05-18,2025-08-30,7,Filled,2025-07-19,All openings filled,7,0,0,2026-10-05,True
+J0174,Data Engineer,Demo Client 05,Data and Analytics,Remote,Contract,Senior,R04,2025-05-18,2025-08-30,7,Closed - Unfilled,2025-09-04,Remaining openings cancelled,5,0,2,2026-10-05,True
+J0175,Java Developer,Demo Client 06,Engineering,Austin TX,Contract,Mid-level,R05,2025-05-18,2025-08-30,6,Filled,2025-07-31,All openings filled,6,0,0,2026-10-05,False
+J0176,Data Analyst,Demo Client 07,Data and Analytics,Charlotte NC,Contract,Senior,R06,2025-05-18,2025-08-30,8,Closed - Unfilled,2025-09-04,Remaining openings cancelled,7,0,1,2026-10-05,False
+J0177,Business Analyst,Demo Client 08,Data and Analytics,Chicago IL,Contract,Mid-level,R07,2025-05-18,2025-08-30,7,Closed - Unfilled,2025-09-04,Remaining openings cancelled,6,0,1,2026-10-05,True
+J0178,Python Developer,Demo Client 01,Engineering,Remote,Contract,Senior,R08,2025-05-18,2025-08-30,8,Closed - Unfilled,2025-09-04,Remaining openings cancelled,5,0,3,2026-10-05,True
+J0179,DevOps Engineer,Demo Client 02,Engineering,Austin TX,Contract,Mid-level,R09,2025-05-18,2025-08-30,10,Closed - Unfilled,2025-09-04,Remaining openings cancelled,4,0,6,2026-10-05,False
+J0180,Cloud Engineer,Demo Client 03,Engineering,Charlotte NC,Contract,Senior,R10,2025-05-18,2025-08-30,8,Filled,2025-07-31,All openings filled,8,0,0,2026-10-05,False
+J0181,QA Engineer,Demo Client 03,Engineering,Austin TX,Full-time,Mid-level,R01,2025-06-17,2025-09-29,7,Closed - Unfilled,2025-10-04,Remaining openings cancelled,4,0,3,2026-10-05,False
+J0182,Machine Learning Engineer,Demo Client 04,Data and Analytics,Charlotte NC,Full-time,Senior,R02,2025-06-17,2025-09-29,9,Closed - Unfilled,2025-10-04,Remaining openings cancelled,5,0,4,2026-10-05,False
+J0183,Data Engineer,Demo Client 05,Data and Analytics,Chicago IL,Full-time,Mid-level,R03,2025-06-17,2025-09-29,5,Filled,2025-09-04,All openings filled,5,0,0,2026-10-05,False
+J0184,Java Developer,Demo Client 06,Engineering,Remote,Full-time,Senior,R04,2025-06-17,2025-09-29,7,Closed - Unfilled,2025-10-04,Remaining openings cancelled,5,0,2,2026-10-05,False
+J0185,Data Analyst,Demo Client 07,Data and Analytics,Austin TX,Full-time,Mid-level,R05,2025-06-17,2025-09-29,9,Filled,2025-09-03,All openings filled,9,0,0,2026-10-05,False
+J0186,Business Analyst,Demo Client 08,Data and Analytics,Charlotte NC,Full-time,Senior,R06,2025-06-17,2025-09-29,10,Closed - Unfilled,2025-10-04,Remaining openings cancelled,4,0,6,2026-10-05,True
+J0187,Python Developer,Demo Client 01,Engineering,Chicago IL,Full-time,Mid-level,R07,2025-06-17,2025-09-29,9,Closed - Unfilled,2025-10-04,Remaining openings cancelled,4,0,5,2026-10-05,True
+J0188,DevOps Engineer,Demo Client 02,Engineering,Remote,Full-time,Senior,R08,2025-06-17,2025-09-29,8,Closed - Unfilled,2025-10-04,Remaining openings cancelled,6,0,2,2026-10-05,False
+J0189,Cloud Engineer,Demo Client 03,Engineering,Austin TX,Full-time,Mid-level,R09,2025-06-17,2025-09-29,5,Filled,2025-09-01,All openings filled,5,0,0,2026-10-05,False
+J0190,Full Stack Developer,Demo Client 04,Engineering,Charlotte NC,Full-time,Senior,R10,2025-06-17,2025-09-29,9,Closed - Unfilled,2025-10-04,Remaining openings cancelled,7,0,2,2026-10-05,False
+J0191,Machine Learning Engineer,Demo Client 04,Data and Analytics,Austin TX,Contract,Mid-level,R01,2025-07-18,2025-10-30,7,Filled,2025-09-29,All openings filled,7,0,0,2026-10-05,True
+J0192,Data Engineer,Demo Client 05,Data and Analytics,Charlotte NC,Contract,Senior,R02,2025-07-18,2025-10-30,8,Closed - Unfilled,2025-11-04,Remaining openings cancelled,5,0,3,2026-10-05,False
+J0193,Java Developer,Demo Client 06,Engineering,Chicago IL,Contract,Mid-level,R03,2025-07-18,2025-10-30,5,Closed - Unfilled,2025-11-04,Remaining openings cancelled,4,0,1,2026-10-05,True
+J0194,Data Analyst,Demo Client 07,Data and Analytics,Remote,Contract,Senior,R04,2025-07-18,2025-10-30,7,Filled,2025-09-23,All openings filled,7,0,0,2026-10-05,False
+J0195,Business Analyst,Demo Client 08,Data and Analytics,Austin TX,Contract,Mid-level,R05,2025-07-18,2025-10-30,8,Closed - Unfilled,2025-11-04,Remaining openings cancelled,7,0,1,2026-10-05,True
+J0196,Python Developer,Demo Client 01,Engineering,Charlotte NC,Contract,Senior,R06,2025-07-18,2025-10-30,10,Closed - Unfilled,2025-11-04,Remaining openings cancelled,3,0,7,2026-10-05,False
+J0197,DevOps Engineer,Demo Client 02,Engineering,Chicago IL,Contract,Mid-level,R07,2025-07-18,2025-10-30,5,Filled,2025-09-25,All openings filled,5,0,0,2026-10-05,True
+J0198,Cloud Engineer,Demo Client 03,Engineering,Remote,Contract,Senior,R08,2025-07-18,2025-10-30,5,Filled,2025-09-20,All openings filled,5,0,0,2026-10-05,False
+J0199,Full Stack Developer,Demo Client 04,Engineering,Austin TX,Contract,Mid-level,R09,2025-07-18,2025-10-30,5,Closed - Unfilled,2025-11-04,Remaining openings cancelled,4,0,1,2026-10-05,False
+J0200,QA Engineer,Demo Client 05,Engineering,Charlotte NC,Contract,Senior,R10,2025-07-18,2025-10-30,7,Closed - Unfilled,2025-11-04,Remaining openings cancelled,6,0,1,2026-10-05,False
+J0201,Data Engineer,Demo Client 05,Data and Analytics,Austin TX,Full-time,Mid-level,R01,2025-08-18,2025-11-30,10,Closed - Unfilled,2025-12-05,Remaining openings cancelled,6,0,4,2026-10-05,True
+J0202,Java Developer,Demo Client 06,Engineering,Charlotte NC,Full-time,Senior,R02,2025-08-18,2025-11-30,9,Closed - Unfilled,2025-12-05,Remaining openings cancelled,6,0,3,2026-10-05,False
+J0203,Data Analyst,Demo Client 07,Data and Analytics,Chicago IL,Full-time,Mid-level,R03,2025-08-18,2025-11-30,6,Closed - Unfilled,2025-12-05,Remaining openings cancelled,2,0,4,2026-10-05,False
+J0204,Business Analyst,Demo Client 08,Data and Analytics,Remote,Full-time,Senior,R04,2025-08-18,2025-11-30,10,Closed - Unfilled,2025-12-05,Remaining openings cancelled,7,0,3,2026-10-05,False
+J0205,Python Developer,Demo Client 01,Engineering,Austin TX,Full-time,Mid-level,R05,2025-08-18,2025-11-30,9,Closed - Unfilled,2025-12-05,Remaining openings cancelled,5,0,4,2026-10-05,False
+J0206,DevOps Engineer,Demo Client 02,Engineering,Charlotte NC,Full-time,Senior,R06,2025-08-18,2025-11-30,9,Closed - Unfilled,2025-12-05,Remaining openings cancelled,7,0,2,2026-10-05,False
+J0207,Cloud Engineer,Demo Client 03,Engineering,Chicago IL,Full-time,Mid-level,R07,2025-08-18,2025-11-30,10,Closed - Unfilled,2025-12-05,Remaining openings cancelled,5,0,5,2026-10-05,False
+J0208,Full Stack Developer,Demo Client 04,Engineering,Remote,Full-time,Senior,R08,2025-08-18,2025-11-30,6,Filled,2025-10-29,All openings filled,6,0,0,2026-10-05,False
+J0209,QA Engineer,Demo Client 05,Engineering,Austin TX,Full-time,Mid-level,R09,2025-08-18,2025-11-30,5,Filled,2025-10-22,All openings filled,5,0,0,2026-10-05,True
+J0210,Machine Learning Engineer,Demo Client 06,Data and Analytics,Charlotte NC,Full-time,Senior,R10,2025-08-18,2025-11-30,7,Filled,2025-10-29,All openings filled,7,0,0,2026-10-05,False
+J0211,Java Developer,Demo Client 06,Engineering,Austin TX,Contract,Mid-level,R01,2025-09-17,2025-12-30,5,Closed - Unfilled,2026-01-04,Remaining openings cancelled,3,0,2,2026-10-05,True
+J0212,Data Analyst,Demo Client 07,Data and Analytics,Charlotte NC,Contract,Senior,R02,2025-09-17,2025-12-30,10,Closed - Unfilled,2026-01-04,Remaining openings cancelled,5,0,5,2026-10-05,False
+J0213,Business Analyst,Demo Client 08,Data and Analytics,Chicago IL,Contract,Mid-level,R03,2025-09-17,2025-12-30,5,Filled,2025-11-28,All openings filled,5,0,0,2026-10-05,False
+J0214,Python Developer,Demo Client 01,Engineering,Remote,Contract,Senior,R04,2025-09-17,2025-12-30,8,Closed - Unfilled,2026-01-04,Remaining openings cancelled,7,0,1,2026-10-05,False
+J0215,DevOps Engineer,Demo Client 02,Engineering,Austin TX,Contract,Mid-level,R05,2025-09-17,2025-12-30,8,Filled,2025-11-27,All openings filled,8,0,0,2026-10-05,False
+J0216,Cloud Engineer,Demo Client 03,Engineering,Charlotte NC,Contract,Senior,R06,2025-09-17,2025-12-30,5,Filled,2025-11-23,All openings filled,5,0,0,2026-10-05,False
+J0217,Full Stack Developer,Demo Client 04,Engineering,Chicago IL,Contract,Mid-level,R07,2025-09-17,2025-12-30,7,Filled,2025-12-03,All openings filled,7,0,0,2026-10-05,True
+J0218,QA Engineer,Demo Client 05,Engineering,Remote,Contract,Senior,R08,2025-09-17,2025-12-30,6,Closed - Unfilled,2026-01-04,Remaining openings cancelled,4,0,2,2026-10-05,False
+J0219,Machine Learning Engineer,Demo Client 06,Data and Analytics,Austin TX,Contract,Mid-level,R09,2025-09-17,2025-12-30,9,Closed - Unfilled,2026-01-04,Remaining openings cancelled,6,0,3,2026-10-05,False
+J0220,Data Engineer,Demo Client 07,Data and Analytics,Charlotte NC,Contract,Senior,R10,2025-09-17,2025-12-30,9,Closed - Unfilled,2026-01-04,Remaining openings cancelled,5,0,4,2026-10-05,False
+J0221,Data Analyst,Demo Client 07,Data and Analytics,Austin TX,Full-time,Mid-level,R01,2025-10-18,2026-01-30,10,Closed - Unfilled,2026-02-04,Remaining openings cancelled,2,0,8,2026-10-05,False
+J0222,Business Analyst,Demo Client 08,Data and Analytics,Charlotte NC,Full-time,Senior,R02,2025-10-18,2026-01-30,7,Filled,2025-12-30,All openings filled,7,0,0,2026-10-05,False
+J0223,Python Developer,Demo Client 01,Engineering,Chicago IL,Full-time,Mid-level,R03,2025-10-18,2026-01-30,5,Filled,2025-12-25,All openings filled,5,0,0,2026-10-05,True
+J0224,DevOps Engineer,Demo Client 02,Engineering,Remote,Full-time,Senior,R04,2025-10-18,2026-01-30,6,Filled,2025-12-22,All openings filled,6,0,0,2026-10-05,True
+J0225,Cloud Engineer,Demo Client 03,Engineering,Austin TX,Full-time,Mid-level,R05,2025-10-18,2026-01-30,10,Closed - Unfilled,2026-02-04,Remaining openings cancelled,9,0,1,2026-10-05,True
+J0226,Full Stack Developer,Demo Client 04,Engineering,Charlotte NC,Full-time,Senior,R06,2025-10-18,2026-01-30,10,Closed - Unfilled,2026-02-04,Remaining openings cancelled,6,0,4,2026-10-05,False
+J0227,QA Engineer,Demo Client 05,Engineering,Chicago IL,Full-time,Mid-level,R07,2025-10-18,2026-01-30,7,Closed - Unfilled,2026-02-04,Remaining openings cancelled,5,0,2,2026-10-05,True
+J0228,Machine Learning Engineer,Demo Client 06,Data and Analytics,Remote,Full-time,Senior,R08,2025-10-18,2026-01-30,10,Closed - Unfilled,2026-02-04,Remaining openings cancelled,9,0,1,2026-10-05,False
+J0229,Data Engineer,Demo Client 07,Data and Analytics,Austin TX,Full-time,Mid-level,R09,2025-10-18,2026-01-30,7,Filled,2025-12-24,All openings filled,7,0,0,2026-10-05,False
+J0230,Java Developer,Demo Client 08,Engineering,Charlotte NC,Full-time,Senior,R10,2025-10-18,2026-01-30,8,Closed - Unfilled,2026-02-04,Remaining openings cancelled,6,0,2,2026-10-05,True
+J0231,Business Analyst,Demo Client 08,Data and Analytics,Austin TX,Contract,Mid-level,R01,2025-11-17,2026-03-01,5,Filled,2026-01-24,All openings filled,5,0,0,2026-10-05,True
+J0232,Python Developer,Demo Client 01,Engineering,Charlotte NC,Contract,Senior,R02,2025-11-17,2026-03-01,6,Filled,2026-01-27,All openings filled,6,0,0,2026-10-05,False
+J0233,DevOps Engineer,Demo Client 02,Engineering,Chicago IL,Contract,Mid-level,R03,2025-11-17,2026-03-01,9,Filled,2026-01-29,All openings filled,9,0,0,2026-10-05,False
+J0234,Cloud Engineer,Demo Client 03,Engineering,Remote,Contract,Senior,R04,2025-11-17,2026-03-01,8,Closed - Unfilled,2026-03-06,Remaining openings cancelled,7,0,1,2026-10-05,True
+J0235,Full Stack Developer,Demo Client 04,Engineering,Austin TX,Contract,Mid-level,R05,2025-11-17,2026-03-01,5,Filled,2026-01-27,All openings filled,5,0,0,2026-10-05,False
+J0236,QA Engineer,Demo Client 05,Engineering,Charlotte NC,Contract,Senior,R06,2025-11-17,2026-03-01,9,Filled,2026-01-27,All openings filled,9,0,0,2026-10-05,False
+J0237,Machine Learning Engineer,Demo Client 06,Data and Analytics,Chicago IL,Contract,Mid-level,R07,2025-11-17,2026-03-01,7,Filled,2026-01-25,All openings filled,7,0,0,2026-10-05,False
+J0238,Data Engineer,Demo Client 07,Data and Analytics,Remote,Contract,Senior,R08,2025-11-17,2026-03-01,8,Filled,2026-02-04,All openings filled,8,0,0,2026-10-05,True
+J0239,Java Developer,Demo Client 08,Engineering,Austin TX,Contract,Mid-level,R09,2025-11-17,2026-03-01,10,Closed - Unfilled,2026-03-06,Remaining openings cancelled,7,0,3,2026-10-05,True
+J0240,Data Analyst,Demo Client 01,Data and Analytics,Charlotte NC,Contract,Senior,R10,2025-11-17,2026-03-01,8,Filled,2026-01-29,All openings filled,8,0,0,2026-10-05,True
+J0241,Python Developer,Demo Client 01,Engineering,Austin TX,Full-time,Mid-level,R01,2025-12-18,2026-04-01,7,Closed - Unfilled,2026-04-06,Remaining openings cancelled,6,0,1,2026-10-05,False
+J0242,DevOps Engineer,Demo Client 02,Engineering,Charlotte NC,Full-time,Senior,R02,2025-12-18,2026-04-01,5,Closed - Unfilled,2026-04-06,Remaining openings cancelled,3,0,2,2026-10-05,True
+J0243,Cloud Engineer,Demo Client 03,Engineering,Chicago IL,Full-time,Mid-level,R03,2025-12-18,2026-04-01,8,Closed - Unfilled,2026-04-06,Remaining openings cancelled,5,0,3,2026-10-05,True
+J0244,Full Stack Developer,Demo Client 04,Engineering,Remote,Full-time,Senior,R04,2025-12-18,2026-04-01,9,Closed - Unfilled,2026-04-06,Remaining openings cancelled,8,0,1,2026-10-05,True
+J0245,QA Engineer,Demo Client 05,Engineering,Austin TX,Full-time,Mid-level,R05,2025-12-18,2026-04-01,10,Closed - Unfilled,2026-04-06,Remaining openings cancelled,9,0,1,2026-10-05,True
+J0246,Machine Learning Engineer,Demo Client 06,Data and Analytics,Charlotte NC,Full-time,Senior,R06,2025-12-18,2026-04-01,10,Closed - Unfilled,2026-04-06,Remaining openings cancelled,7,0,3,2026-10-05,True
+J0247,Data Engineer,Demo Client 07,Data and Analytics,Chicago IL,Full-time,Mid-level,R07,2025-12-18,2026-04-01,5,Filled,2026-02-25,All openings filled,5,0,0,2026-10-05,False
+J0248,Java Developer,Demo Client 08,Engineering,Remote,Full-time,Senior,R08,2025-12-18,2026-04-01,10,Closed - Unfilled,2026-04-06,Remaining openings cancelled,6,0,4,2026-10-05,False
+J0249,Data Analyst,Demo Client 01,Data and Analytics,Austin TX,Full-time,Mid-level,R09,2025-12-18,2026-04-01,5,Closed - Unfilled,2026-04-06,Remaining openings cancelled,4,0,1,2026-10-05,True
+J0250,Business Analyst,Demo Client 02,Data and Analytics,Charlotte NC,Full-time,Senior,R10,2025-12-18,2026-04-01,10,Filled,2026-03-08,All openings filled,10,0,0,2026-10-05,False
+J0251,DevOps Engineer,Demo Client 02,Engineering,Austin TX,Contract,Mid-level,R01,2026-01-18,2026-05-02,9,Closed - Unfilled,2026-05-07,Remaining openings cancelled,8,0,1,2026-10-05,True
+J0252,Cloud Engineer,Demo Client 03,Engineering,Charlotte NC,Contract,Senior,R02,2026-01-18,2026-05-02,9,Closed - Unfilled,2026-05-07,Remaining openings cancelled,8,0,1,2026-10-05,False
+J0253,Full Stack Developer,Demo Client 04,Engineering,Chicago IL,Contract,Mid-level,R03,2026-01-18,2026-05-02,8,Closed - Unfilled,2026-05-07,Remaining openings cancelled,6,0,2,2026-10-05,False
+J0254,QA Engineer,Demo Client 05,Engineering,Remote,Contract,Senior,R04,2026-01-18,2026-05-02,10,Filled,2026-04-04,All openings filled,10,0,0,2026-10-05,True
+J0255,Machine Learning Engineer,Demo Client 06,Data and Analytics,Austin TX,Contract,Mid-level,R05,2026-01-18,2026-05-02,7,Filled,2026-03-23,All openings filled,7,0,0,2026-10-05,True
+J0256,Data Engineer,Demo Client 07,Data and Analytics,Charlotte NC,Contract,Senior,R06,2026-01-18,2026-05-02,7,Filled,2026-03-28,All openings filled,7,0,0,2026-10-05,False
+J0257,Java Developer,Demo Client 08,Engineering,Chicago IL,Contract,Mid-level,R07,2026-01-18,2026-05-02,8,Closed - Unfilled,2026-05-07,Remaining openings cancelled,2,0,6,2026-10-05,True
+J0258,Data Analyst,Demo Client 01,Data and Analytics,Remote,Contract,Senior,R08,2026-01-18,2026-05-02,9,Filled,2026-04-09,All openings filled,9,0,0,2026-10-05,False
+J0259,Business Analyst,Demo Client 02,Data and Analytics,Austin TX,Contract,Mid-level,R09,2026-01-18,2026-05-02,10,Closed - Unfilled,2026-05-07,Remaining openings cancelled,9,0,1,2026-10-05,True
+J0260,Python Developer,Demo Client 03,Engineering,Charlotte NC,Contract,Senior,R10,2026-01-18,2026-05-02,8,Filled,2026-03-30,All openings filled,8,0,0,2026-10-05,False
+J0261,Cloud Engineer,Demo Client 03,Engineering,Austin TX,Full-time,Mid-level,R01,2026-02-15,2026-05-30,9,Closed - Unfilled,2026-06-04,Remaining openings cancelled,6,0,3,2026-10-05,False
+J0262,Full Stack Developer,Demo Client 04,Engineering,Charlotte NC,Full-time,Senior,R02,2026-02-15,2026-05-30,8,Filled,2026-04-26,All openings filled,8,0,0,2026-10-05,False
+J0263,QA Engineer,Demo Client 05,Engineering,Chicago IL,Full-time,Mid-level,R03,2026-02-15,2026-05-30,8,Filled,2026-04-28,All openings filled,8,0,0,2026-10-05,False
+J0264,Machine Learning Engineer,Demo Client 06,Data and Analytics,Remote,Full-time,Senior,R04,2026-02-15,2026-05-30,6,Filled,2026-04-23,All openings filled,6,0,0,2026-10-05,False
+J0265,Data Engineer,Demo Client 07,Data and Analytics,Austin TX,Full-time,Mid-level,R05,2026-02-15,2026-05-30,5,Filled,2026-04-24,All openings filled,5,0,0,2026-10-05,True
+J0266,Java Developer,Demo Client 08,Engineering,Charlotte NC,Full-time,Senior,R06,2026-02-15,2026-05-30,7,Filled,2026-05-02,All openings filled,7,0,0,2026-10-05,True
+J0267,Data Analyst,Demo Client 01,Data and Analytics,Chicago IL,Full-time,Mid-level,R07,2026-02-15,2026-05-30,10,Closed - Unfilled,2026-06-04,Remaining openings cancelled,7,0,3,2026-10-05,True
+J0268,Business Analyst,Demo Client 02,Data and Analytics,Remote,Full-time,Senior,R08,2026-02-15,2026-05-30,6,Closed - Unfilled,2026-06-04,Remaining openings cancelled,5,0,1,2026-10-05,True
+J0269,Python Developer,Demo Client 03,Engineering,Austin TX,Full-time,Mid-level,R09,2026-02-15,2026-05-30,10,Closed - Unfilled,2026-06-04,Remaining openings cancelled,8,0,2,2026-10-05,True
+J0270,DevOps Engineer,Demo Client 04,Engineering,Charlotte NC,Full-time,Senior,R10,2026-02-15,2026-05-30,10,Closed - Unfilled,2026-06-04,Remaining openings cancelled,9,0,1,2026-10-05,True
+J0271,Full Stack Developer,Demo Client 04,Engineering,Austin TX,Contract,Mid-level,R01,2026-03-18,2026-06-30,7,Closed - Unfilled,2026-07-05,Remaining openings cancelled,6,0,1,2026-10-05,False
+J0272,QA Engineer,Demo Client 05,Engineering,Charlotte NC,Contract,Senior,R02,2026-03-18,2026-06-30,5,Filled,2026-05-21,All openings filled,5,0,0,2026-10-05,True
+J0273,Machine Learning Engineer,Demo Client 06,Data and Analytics,Chicago IL,Contract,Mid-level,R03,2026-03-18,2026-06-30,7,Closed - Unfilled,2026-07-05,Remaining openings cancelled,3,0,4,2026-10-05,True
+J0274,Data Engineer,Demo Client 07,Data and Analytics,Remote,Contract,Senior,R04,2026-03-18,2026-06-30,5,Filled,2026-05-25,All openings filled,5,0,0,2026-10-05,True
+J0275,Java Developer,Demo Client 08,Engineering,Austin TX,Contract,Mid-level,R05,2026-03-18,2026-06-30,10,Filled,2026-05-27,All openings filled,10,0,0,2026-10-05,False
+J0276,Data Analyst,Demo Client 01,Data and Analytics,Charlotte NC,Contract,Senior,R06,2026-03-18,2026-06-30,9,Filled,2026-05-28,All openings filled,9,0,0,2026-10-05,True
+J0277,Business Analyst,Demo Client 02,Data and Analytics,Chicago IL,Contract,Mid-level,R07,2026-03-18,2026-06-30,9,Closed - Unfilled,2026-07-05,Remaining openings cancelled,7,0,2,2026-10-05,False
+J0278,Python Developer,Demo Client 03,Engineering,Remote,Contract,Senior,R08,2026-03-18,2026-06-30,9,Closed - Unfilled,2026-07-05,Remaining openings cancelled,7,0,2,2026-10-05,False
+J0279,DevOps Engineer,Demo Client 04,Engineering,Austin TX,Contract,Mid-level,R09,2026-03-18,2026-06-30,10,Closed - Unfilled,2026-07-05,Remaining openings cancelled,4,0,6,2026-10-05,True
+J0280,Cloud Engineer,Demo Client 05,Engineering,Charlotte NC,Contract,Senior,R10,2026-03-18,2026-06-30,9,Closed - Unfilled,2026-07-05,Remaining openings cancelled,6,0,3,2026-10-05,True
+J0281,QA Engineer,Demo Client 05,Engineering,Austin TX,Full-time,Mid-level,R01,2026-04-17,2026-07-30,10,Closed - Unfilled,2026-08-04,Remaining openings cancelled,9,0,1,2026-10-05,True
+J0282,Machine Learning Engineer,Demo Client 06,Data and Analytics,Charlotte NC,Full-time,Senior,R02,2026-04-17,2026-07-30,5,Filled,2026-06-27,All openings filled,5,0,0,2026-10-05,True
+J0283,Data Engineer,Demo Client 07,Data and Analytics,Chicago IL,Full-time,Mid-level,R03,2026-04-17,2026-07-30,5,Closed - Unfilled,2026-08-04,Remaining openings cancelled,3,0,2,2026-10-05,True
+J0284,Java Developer,Demo Client 08,Engineering,Remote,Full-time,Senior,R04,2026-04-17,2026-07-30,5,Filled,2026-06-29,All openings filled,5,0,0,2026-10-05,False
+J0285,Data Analyst,Demo Client 01,Data and Analytics,Austin TX,Full-time,Mid-level,R05,2026-04-17,2026-07-30,5,Filled,2026-06-25,All openings filled,5,0,0,2026-10-05,True
+J0286,Business Analyst,Demo Client 02,Data and Analytics,Charlotte NC,Full-time,Senior,R06,2026-04-17,2026-07-30,7,Filled,2026-06-27,All openings filled,7,0,0,2026-10-05,False
+J0287,Python Developer,Demo Client 03,Engineering,Chicago IL,Full-time,Mid-level,R07,2026-04-17,2026-07-30,7,Filled,2026-06-25,All openings filled,7,0,0,2026-10-05,True
+J0288,DevOps Engineer,Demo Client 04,Engineering,Remote,Full-time,Senior,R08,2026-04-17,2026-07-30,7,Filled,2026-06-26,All openings filled,7,0,0,2026-10-05,True
+J0289,Cloud Engineer,Demo Client 05,Engineering,Austin TX,Full-time,Mid-level,R09,2026-04-17,2026-07-30,7,Filled,2026-06-24,All openings filled,7,0,0,2026-10-05,False
+J0290,Full Stack Developer,Demo Client 06,Engineering,Charlotte NC,Full-time,Senior,R10,2026-04-17,2026-07-30,7,Filled,2026-06-26,All openings filled,7,0,0,2026-10-05,False
+J0291,Machine Learning Engineer,Demo Client 06,Data and Analytics,Austin TX,Contract,Mid-level,R01,2026-05-18,2026-08-30,6,Filled,2026-07-24,All openings filled,6,0,0,2026-10-05,False
+J0292,Data Engineer,Demo Client 07,Data and Analytics,Charlotte NC,Contract,Senior,R02,2026-05-18,2026-08-30,6,Filled,2026-07-25,All openings filled,6,0,0,2026-10-05,False
+J0293,Java Developer,Demo Client 08,Engineering,Chicago IL,Contract,Mid-level,R03,2026-05-18,2026-08-30,7,Closed - Unfilled,2026-09-04,Remaining openings cancelled,4,0,3,2026-10-05,True
+J0294,Data Analyst,Demo Client 01,Data and Analytics,Remote,Contract,Senior,R04,2026-05-18,2026-08-30,5,Filled,2026-07-20,All openings filled,5,0,0,2026-10-05,True
+J0295,Business Analyst,Demo Client 02,Data and Analytics,Austin TX,Contract,Mid-level,R05,2026-05-18,2026-08-30,5,Closed - Unfilled,2026-09-04,Remaining openings cancelled,4,0,1,2026-10-05,True
+J0296,Python Developer,Demo Client 03,Engineering,Charlotte NC,Contract,Senior,R06,2026-05-18,2026-08-30,8,Closed - Unfilled,2026-09-04,Remaining openings cancelled,3,0,5,2026-10-05,False
+J0297,DevOps Engineer,Demo Client 04,Engineering,Chicago IL,Contract,Mid-level,R07,2026-05-18,2026-08-30,7,Filled,2026-07-24,All openings filled,7,0,0,2026-10-05,True
+J0298,Cloud Engineer,Demo Client 05,Engineering,Remote,Contract,Senior,R08,2026-05-18,2026-08-30,5,Closed - Unfilled,2026-09-04,Remaining openings cancelled,2,0,3,2026-10-05,True
+J0299,Full Stack Developer,Demo Client 06,Engineering,Austin TX,Contract,Mid-level,R09,2026-05-18,2026-08-30,7,Filled,2026-07-29,All openings filled,7,0,0,2026-10-05,False
+J0300,QA Engineer,Demo Client 07,Engineering,Charlotte NC,Contract,Senior,R10,2026-05-18,2026-08-30,6,Filled,2026-08-05,All openings filled,6,0,0,2026-10-05,True
+J0301,Data Engineer,Demo Client 07,Data and Analytics,Austin TX,Full-time,Mid-level,R01,2026-06-17,2026-09-29,6,Filled,2026-08-26,All openings filled,6,0,0,2026-10-05,True
+J0302,Java Developer,Demo Client 08,Engineering,Charlotte NC,Full-time,Senior,R02,2026-06-17,2026-09-29,9,Open,,,6,3,0,2026-10-05,False
+J0303,Data Analyst,Demo Client 01,Data and Analytics,Chicago IL,Full-time,Mid-level,R03,2026-06-17,2026-09-29,7,Filled,2026-08-25,All openings filled,7,0,0,2026-10-05,False
+J0304,Business Analyst,Demo Client 02,Data and Analytics,Remote,Full-time,Senior,R04,2026-06-17,2026-09-29,10,Open,,,4,6,0,2026-10-05,False
+J0305,Python Developer,Demo Client 03,Engineering,Austin TX,Full-time,Mid-level,R05,2026-06-17,2026-09-29,9,On Hold,,,4,5,0,2026-10-05,True
+J0306,DevOps Engineer,Demo Client 04,Engineering,Charlotte NC,Full-time,Senior,R06,2026-06-17,2026-09-29,7,Filled,2026-08-25,All openings filled,7,0,0,2026-10-05,False
+J0307,Cloud Engineer,Demo Client 05,Engineering,Chicago IL,Full-time,Mid-level,R07,2026-06-17,2026-09-29,9,Open,,,7,2,0,2026-10-05,True
+J0308,Full Stack Developer,Demo Client 06,Engineering,Remote,Full-time,Senior,R08,2026-06-17,2026-09-29,10,Open,,,2,8,0,2026-10-05,False
+J0309,QA Engineer,Demo Client 07,Engineering,Austin TX,Full-time,Mid-level,R09,2026-06-17,2026-09-29,6,Filled,2026-08-29,All openings filled,6,0,0,2026-10-05,False
+J0310,Machine Learning Engineer,Demo Client 08,Data and Analytics,Charlotte NC,Full-time,Senior,R10,2026-06-17,2026-09-29,10,Open,,,5,5,0,2026-10-05,False
+J0311,Java Developer,Demo Client 08,Engineering,Austin TX,Contract,Mid-level,R01,2026-07-18,2026-10-30,10,Open,,,6,4,0,2026-10-05,True
+J0312,Data Analyst,Demo Client 01,Data and Analytics,Charlotte NC,Contract,Senior,R02,2026-07-18,2026-10-30,8,Open,,,6,2,0,2026-10-05,False
+J0313,Business Analyst,Demo Client 02,Data and Analytics,Chicago IL,Contract,Mid-level,R03,2026-07-18,2026-10-30,5,Filled,2026-09-25,All openings filled,5,0,0,2026-10-05,False
+J0314,Python Developer,Demo Client 03,Engineering,Remote,Contract,Senior,R04,2026-07-18,2026-10-30,10,Open,,,9,1,0,2026-10-05,True
+J0315,DevOps Engineer,Demo Client 04,Engineering,Austin TX,Contract,Mid-level,R05,2026-07-18,2026-10-30,10,Open,,,5,5,0,2026-10-05,True
+J0316,Cloud Engineer,Demo Client 05,Engineering,Charlotte NC,Contract,Senior,R06,2026-07-18,2026-10-30,8,Filled,2026-09-20,All openings filled,8,0,0,2026-10-05,False
+J0317,Full Stack Developer,Demo Client 06,Engineering,Chicago IL,Contract,Mid-level,R07,2026-07-18,2026-10-30,10,On Hold,,,6,4,0,2026-10-05,True
+J0318,QA Engineer,Demo Client 07,Engineering,Remote,Contract,Senior,R08,2026-07-18,2026-10-30,9,Filled,2026-09-22,All openings filled,9,0,0,2026-10-05,False
+J0319,Machine Learning Engineer,Demo Client 08,Data and Analytics,Austin TX,Contract,Mid-level,R09,2026-07-18,2026-10-30,5,Filled,2026-09-30,All openings filled,5,0,0,2026-10-05,False
+J0320,Data Engineer,Demo Client 01,Data and Analytics,Charlotte NC,Contract,Senior,R10,2026-07-18,2026-10-30,6,Open,,,5,1,0,2026-10-05,False
+J0321,Data Analyst,Demo Client 01,Data and Analytics,Austin TX,Full-time,Mid-level,R01,2026-08-18,2026-11-30,9,On Hold,,,1,8,0,2026-10-05,True
+J0322,Business Analyst,Demo Client 02,Data and Analytics,Charlotte NC,Full-time,Senior,R02,2026-08-18,2026-11-30,7,Open,,,1,6,0,2026-10-05,False
+J0323,Python Developer,Demo Client 03,Engineering,Chicago IL,Full-time,Mid-level,R03,2026-08-18,2026-11-30,10,Open,,,0,10,0,2026-10-05,True
+J0324,DevOps Engineer,Demo Client 04,Engineering,Remote,Full-time,Senior,R04,2026-08-18,2026-11-30,10,Open,,,2,8,0,2026-10-05,True
+J0325,Cloud Engineer,Demo Client 05,Engineering,Austin TX,Full-time,Mid-level,R05,2026-08-18,2026-11-30,10,On Hold,,,1,9,0,2026-10-05,True
+J0326,Full Stack Developer,Demo Client 06,Engineering,Charlotte NC,Full-time,Senior,R06,2026-08-18,2026-11-30,6,Open,,,2,4,0,2026-10-05,False
+J0327,QA Engineer,Demo Client 07,Engineering,Chicago IL,Full-time,Mid-level,R07,2026-08-18,2026-11-30,8,Open,,,1,7,0,2026-10-05,False
+J0328,Machine Learning Engineer,Demo Client 08,Data and Analytics,Remote,Full-time,Senior,R08,2026-08-18,2026-11-30,9,Open,,,1,8,0,2026-10-05,True
+J0329,Data Engineer,Demo Client 01,Data and Analytics,Austin TX,Full-time,Mid-level,R09,2026-08-18,2026-11-30,6,On Hold,,,2,4,0,2026-10-05,True
+J0330,Java Developer,Demo Client 02,Engineering,Charlotte NC,Full-time,Senior,R10,2026-08-18,2026-11-30,8,Open,,,2,6,0,2026-10-05,True
+J0331,Business Analyst,Demo Client 02,Data and Analytics,Austin TX,Contract,Mid-level,R01,2026-09-17,2026-12-30,5,Open,,,0,5,0,2026-10-05,True
+J0332,Python Developer,Demo Client 03,Engineering,Charlotte NC,Contract,Senior,R02,2026-09-17,2026-12-30,8,Open,,,0,8,0,2026-10-05,False
+J0333,DevOps Engineer,Demo Client 04,Engineering,Chicago IL,Contract,Mid-level,R03,2026-09-17,2026-12-30,8,On Hold,,,0,8,0,2026-10-05,True
+J0334,Cloud Engineer,Demo Client 05,Engineering,Remote,Contract,Senior,R04,2026-09-17,2026-12-30,5,Open,,,0,5,0,2026-10-05,False
+J0335,Full Stack Developer,Demo Client 06,Engineering,Austin TX,Contract,Mid-level,R05,2026-09-17,2026-12-30,6,Open,,,0,6,0,2026-10-05,False
+J0336,QA Engineer,Demo Client 07,Engineering,Charlotte NC,Contract,Senior,R06,2026-09-17,2026-12-30,7,Open,,,0,7,0,2026-10-05,False
+J0337,Machine Learning Engineer,Demo Client 08,Data and Analytics,Chicago IL,Contract,Mid-level,R07,2026-09-17,2026-12-30,5,On Hold,,,0,5,0,2026-10-05,True
+J0338,Data Engineer,Demo Client 01,Data and Analytics,Remote,Contract,Senior,R08,2026-09-17,2026-12-30,6,Open,,,0,6,0,2026-10-05,False
+J0339,Java Developer,Demo Client 02,Engineering,Austin TX,Contract,Mid-level,R09,2026-09-17,2026-12-30,6,Open,,,0,6,0,2026-10-05,False
+J0340,Data Analyst,Demo Client 03,Data and Analytics,Charlotte NC,Contract,Senior,R10,2026-09-17,2026-12-30,10,Open,,,0,10,0,2026-10-05,False

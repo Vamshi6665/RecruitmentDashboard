@@ -1,0 +1,922 @@
+StatusHistoryID,JobID,RecruiterID,Status,EffectiveFrom,EffectiveTo,Reason,AsOfDate
+SH00001,J0001,R01,Open,2024-01-01,2024-04-05,Requirement approved,2026-10-05
+SH00002,J0001,R01,Closed - Unfilled,2024-04-05,,Remaining openings cancelled,2026-10-05
+SH00003,J0002,R02,Open,2024-01-01,2024-03-04,Requirement approved,2026-10-05
+SH00004,J0002,R02,Filled,2024-03-04,,All openings filled,2026-10-05
+SH00005,J0003,R03,Open,2024-01-01,2024-04-05,Requirement approved,2026-10-05
+SH00006,J0003,R03,Closed - Unfilled,2024-04-05,,Remaining openings cancelled,2026-10-05
+SH00007,J0004,R04,Open,2024-01-01,2024-02-21,Requirement approved,2026-10-05
+SH00008,J0004,R04,Filled,2024-02-21,,All openings filled,2026-10-05
+SH00009,J0005,R05,Open,2024-01-01,2024-03-04,Requirement approved,2026-10-05
+SH00010,J0005,R05,Filled,2024-03-04,,All openings filled,2026-10-05
+SH00011,J0006,R06,Open,2024-01-01,2024-04-05,Requirement approved,2026-10-05
+SH00012,J0006,R06,Closed - Unfilled,2024-04-05,,Remaining openings cancelled,2026-10-05
+SH00013,J0007,R07,Open,2024-01-01,2024-04-05,Requirement approved,2026-10-05
+SH00014,J0007,R07,Closed - Unfilled,2024-04-05,,Remaining openings cancelled,2026-10-05
+SH00015,J0008,R08,Open,2024-01-01,2024-04-05,Requirement approved,2026-10-05
+SH00016,J0008,R08,Closed - Unfilled,2024-04-05,,Remaining openings cancelled,2026-10-05
+SH00017,J0009,R09,Open,2024-01-01,2024-04-05,Requirement approved,2026-10-05
+SH00018,J0009,R09,Closed - Unfilled,2024-04-05,,Remaining openings cancelled,2026-10-05
+SH00019,J0010,R10,Open,2024-01-01,2024-04-05,Requirement approved,2026-10-05
+SH00020,J0010,R10,Closed - Unfilled,2024-04-05,,Remaining openings cancelled,2026-10-05
+SH00021,J0011,R01,Open,2024-01-18,2024-03-31,Requirement approved,2026-10-05
+SH00022,J0011,R01,Filled,2024-03-31,,All openings filled,2026-10-05
+SH00023,J0012,R02,Open,2024-01-18,2024-05-06,Requirement approved,2026-10-05
+SH00024,J0012,R02,Closed - Unfilled,2024-05-06,,Remaining openings cancelled,2026-10-05
+SH00025,J0013,R03,Open,2024-01-18,2024-05-06,Requirement approved,2026-10-05
+SH00026,J0013,R03,Closed - Unfilled,2024-05-06,,Remaining openings cancelled,2026-10-05
+SH00027,J0014,R04,Open,2024-01-18,2024-05-06,Requirement approved,2026-10-05
+SH00028,J0014,R04,Closed - Unfilled,2024-05-06,,Remaining openings cancelled,2026-10-05
+SH00029,J0015,R05,Open,2024-01-18,2024-03-31,Requirement approved,2026-10-05
+SH00030,J0015,R05,Filled,2024-03-31,,All openings filled,2026-10-05
+SH00031,J0016,R06,Open,2024-01-18,2024-01-21,Requirement approved,2026-10-05
+SH00032,J0016,R06,On Hold,2024-01-21,2024-01-28,Hiring manager unavailable,2026-10-05
+SH00033,J0016,R06,Open,2024-01-28,2024-04-04,Hiring resumed,2026-10-05
+SH00034,J0016,R06,Filled,2024-04-04,,All openings filled,2026-10-05
+SH00035,J0017,R07,Open,2024-01-18,2024-03-24,Requirement approved,2026-10-05
+SH00036,J0017,R07,Filled,2024-03-24,,All openings filled,2026-10-05
+SH00037,J0018,R08,Open,2024-01-18,2024-05-06,Requirement approved,2026-10-05
+SH00038,J0018,R08,Closed - Unfilled,2024-05-06,,Remaining openings cancelled,2026-10-05
+SH00039,J0019,R09,Open,2024-01-18,2024-05-06,Requirement approved,2026-10-05
+SH00040,J0019,R09,Closed - Unfilled,2024-05-06,,Remaining openings cancelled,2026-10-05
+SH00041,J0020,R10,Open,2024-01-18,2024-01-21,Requirement approved,2026-10-05
+SH00042,J0020,R10,On Hold,2024-01-21,2024-01-28,Budget review,2026-10-05
+SH00043,J0020,R10,Open,2024-01-28,2024-04-01,Hiring resumed,2026-10-05
+SH00044,J0020,R10,Filled,2024-04-01,,All openings filled,2026-10-05
+SH00045,J0021,R01,Open,2024-02-16,2024-02-19,Requirement approved,2026-10-05
+SH00046,J0021,R01,On Hold,2024-02-19,2024-02-26,Budget review,2026-10-05
+SH00047,J0021,R01,Open,2024-02-26,2024-06-04,Hiring resumed,2026-10-05
+SH00048,J0021,R01,Closed - Unfilled,2024-06-04,,Remaining openings cancelled,2026-10-05
+SH00049,J0022,R02,Open,2024-02-16,2024-04-26,Requirement approved,2026-10-05
+SH00050,J0022,R02,Filled,2024-04-26,,All openings filled,2026-10-05
+SH00051,J0023,R03,Open,2024-02-16,2024-06-04,Requirement approved,2026-10-05
+SH00052,J0023,R03,Closed - Unfilled,2024-06-04,,Remaining openings cancelled,2026-10-05
+SH00053,J0024,R04,Open,2024-02-16,2024-05-03,Requirement approved,2026-10-05
+SH00054,J0024,R04,Filled,2024-05-03,,All openings filled,2026-10-05
+SH00055,J0025,R05,Open,2024-02-16,2024-06-04,Requirement approved,2026-10-05
+SH00056,J0025,R05,Closed - Unfilled,2024-06-04,,Remaining openings cancelled,2026-10-05
+SH00057,J0026,R06,Open,2024-02-16,2024-02-19,Requirement approved,2026-10-05
+SH00058,J0026,R06,On Hold,2024-02-19,2024-02-26,Budget review,2026-10-05
+SH00059,J0026,R06,Open,2024-02-26,2024-06-04,Hiring resumed,2026-10-05
+SH00060,J0026,R06,Closed - Unfilled,2024-06-04,,Remaining openings cancelled,2026-10-05
+SH00061,J0027,R07,Open,2024-02-16,2024-06-04,Requirement approved,2026-10-05
+SH00062,J0027,R07,Closed - Unfilled,2024-06-04,,Remaining openings cancelled,2026-10-05
+SH00063,J0028,R08,Open,2024-02-16,2024-02-19,Requirement approved,2026-10-05
+SH00064,J0028,R08,On Hold,2024-02-19,2024-02-26,Budget review,2026-10-05
+SH00065,J0028,R08,Open,2024-02-26,2024-05-07,Hiring resumed,2026-10-05
+SH00066,J0028,R08,Filled,2024-05-07,,All openings filled,2026-10-05
+SH00067,J0029,R09,Open,2024-02-16,2024-06-04,Requirement approved,2026-10-05
+SH00068,J0029,R09,Closed - Unfilled,2024-06-04,,Remaining openings cancelled,2026-10-05
+SH00069,J0030,R10,Open,2024-02-16,2024-06-04,Requirement approved,2026-10-05
+SH00070,J0030,R10,Closed - Unfilled,2024-06-04,,Remaining openings cancelled,2026-10-05
+SH00071,J0031,R01,Open,2024-03-18,2024-03-21,Requirement approved,2026-10-05
+SH00072,J0031,R01,On Hold,2024-03-21,2024-03-28,Hiring manager unavailable,2026-10-05
+SH00073,J0031,R01,Open,2024-03-28,2024-07-05,Hiring resumed,2026-10-05
+SH00074,J0031,R01,Closed - Unfilled,2024-07-05,,Remaining openings cancelled,2026-10-05
+SH00075,J0032,R02,Open,2024-03-18,2024-03-21,Requirement approved,2026-10-05
+SH00076,J0032,R02,On Hold,2024-03-21,2024-03-28,Client approval pending,2026-10-05
+SH00077,J0032,R02,Open,2024-03-28,2024-07-05,Hiring resumed,2026-10-05
+SH00078,J0032,R02,Closed - Unfilled,2024-07-05,,Remaining openings cancelled,2026-10-05
+SH00079,J0033,R03,Open,2024-03-18,2024-03-21,Requirement approved,2026-10-05
+SH00080,J0033,R03,On Hold,2024-03-21,2024-03-28,Client approval pending,2026-10-05
+SH00081,J0033,R03,Open,2024-03-28,2024-07-05,Hiring resumed,2026-10-05
+SH00082,J0033,R03,Closed - Unfilled,2024-07-05,,Remaining openings cancelled,2026-10-05
+SH00083,J0034,R04,Open,2024-03-18,2024-03-21,Requirement approved,2026-10-05
+SH00084,J0034,R04,On Hold,2024-03-21,2024-03-28,Client approval pending,2026-10-05
+SH00085,J0034,R04,Open,2024-03-28,2024-07-05,Hiring resumed,2026-10-05
+SH00086,J0034,R04,Closed - Unfilled,2024-07-05,,Remaining openings cancelled,2026-10-05
+SH00087,J0035,R05,Open,2024-03-18,2024-03-21,Requirement approved,2026-10-05
+SH00088,J0035,R05,On Hold,2024-03-21,2024-03-28,Client approval pending,2026-10-05
+SH00089,J0035,R05,Open,2024-03-28,2024-07-05,Hiring resumed,2026-10-05
+SH00090,J0035,R05,Closed - Unfilled,2024-07-05,,Remaining openings cancelled,2026-10-05
+SH00091,J0036,R06,Open,2024-03-18,2024-03-21,Requirement approved,2026-10-05
+SH00092,J0036,R06,On Hold,2024-03-21,2024-03-28,Hiring manager unavailable,2026-10-05
+SH00093,J0036,R06,Open,2024-03-28,2024-07-05,Hiring resumed,2026-10-05
+SH00094,J0036,R06,Closed - Unfilled,2024-07-05,,Remaining openings cancelled,2026-10-05
+SH00095,J0037,R07,Open,2024-03-18,2024-07-05,Requirement approved,2026-10-05
+SH00096,J0037,R07,Closed - Unfilled,2024-07-05,,Remaining openings cancelled,2026-10-05
+SH00097,J0038,R08,Open,2024-03-18,2024-03-21,Requirement approved,2026-10-05
+SH00098,J0038,R08,On Hold,2024-03-21,2024-03-28,Hiring manager unavailable,2026-10-05
+SH00099,J0038,R08,Open,2024-03-28,2024-05-31,Hiring resumed,2026-10-05
+SH00100,J0038,R08,Filled,2024-05-31,,All openings filled,2026-10-05
+SH00101,J0039,R09,Open,2024-03-18,2024-03-21,Requirement approved,2026-10-05
+SH00102,J0039,R09,On Hold,2024-03-21,2024-03-28,Budget review,2026-10-05
+SH00103,J0039,R09,Open,2024-03-28,2024-07-05,Hiring resumed,2026-10-05
+SH00104,J0039,R09,Closed - Unfilled,2024-07-05,,Remaining openings cancelled,2026-10-05
+SH00105,J0040,R10,Open,2024-03-18,2024-05-25,Requirement approved,2026-10-05
+SH00106,J0040,R10,Filled,2024-05-25,,All openings filled,2026-10-05
+SH00107,J0041,R01,Open,2024-04-17,2024-04-20,Requirement approved,2026-10-05
+SH00108,J0041,R01,On Hold,2024-04-20,2024-04-27,Budget review,2026-10-05
+SH00109,J0041,R01,Open,2024-04-27,2024-06-21,Hiring resumed,2026-10-05
+SH00110,J0041,R01,Filled,2024-06-21,,All openings filled,2026-10-05
+SH00111,J0042,R02,Open,2024-04-17,2024-06-26,Requirement approved,2026-10-05
+SH00112,J0042,R02,Filled,2024-06-26,,All openings filled,2026-10-05
+SH00113,J0043,R03,Open,2024-04-17,2024-06-27,Requirement approved,2026-10-05
+SH00114,J0043,R03,Filled,2024-06-27,,All openings filled,2026-10-05
+SH00115,J0044,R04,Open,2024-04-17,2024-08-04,Requirement approved,2026-10-05
+SH00116,J0044,R04,Closed - Unfilled,2024-08-04,,Remaining openings cancelled,2026-10-05
+SH00117,J0045,R05,Open,2024-04-17,2024-08-04,Requirement approved,2026-10-05
+SH00118,J0045,R05,Closed - Unfilled,2024-08-04,,Remaining openings cancelled,2026-10-05
+SH00119,J0046,R06,Open,2024-04-17,2024-04-20,Requirement approved,2026-10-05
+SH00120,J0046,R06,On Hold,2024-04-20,2024-04-27,Hiring manager unavailable,2026-10-05
+SH00121,J0046,R06,Open,2024-04-27,2024-07-02,Hiring resumed,2026-10-05
+SH00122,J0046,R06,Filled,2024-07-02,,All openings filled,2026-10-05
+SH00123,J0047,R07,Open,2024-04-17,2024-08-04,Requirement approved,2026-10-05
+SH00124,J0047,R07,Closed - Unfilled,2024-08-04,,Remaining openings cancelled,2026-10-05
+SH00125,J0048,R08,Open,2024-04-17,2024-07-09,Requirement approved,2026-10-05
+SH00126,J0048,R08,Filled,2024-07-09,,All openings filled,2026-10-05
+SH00127,J0049,R09,Open,2024-04-17,2024-08-04,Requirement approved,2026-10-05
+SH00128,J0049,R09,Closed - Unfilled,2024-08-04,,Remaining openings cancelled,2026-10-05
+SH00129,J0050,R10,Open,2024-04-17,2024-08-04,Requirement approved,2026-10-05
+SH00130,J0050,R10,Closed - Unfilled,2024-08-04,,Remaining openings cancelled,2026-10-05
+SH00131,J0051,R01,Open,2024-05-18,2024-09-04,Requirement approved,2026-10-05
+SH00132,J0051,R01,Closed - Unfilled,2024-09-04,,Remaining openings cancelled,2026-10-05
+SH00133,J0052,R02,Open,2024-05-18,2024-09-04,Requirement approved,2026-10-05
+SH00134,J0052,R02,Closed - Unfilled,2024-09-04,,Remaining openings cancelled,2026-10-05
+SH00135,J0053,R03,Open,2024-05-18,2024-05-21,Requirement approved,2026-10-05
+SH00136,J0053,R03,On Hold,2024-05-21,2024-05-28,Client approval pending,2026-10-05
+SH00137,J0053,R03,Open,2024-05-28,2024-09-04,Hiring resumed,2026-10-05
+SH00138,J0053,R03,Closed - Unfilled,2024-09-04,,Remaining openings cancelled,2026-10-05
+SH00139,J0054,R04,Open,2024-05-18,2024-05-21,Requirement approved,2026-10-05
+SH00140,J0054,R04,On Hold,2024-05-21,2024-05-28,Client approval pending,2026-10-05
+SH00141,J0054,R04,Open,2024-05-28,2024-07-30,Hiring resumed,2026-10-05
+SH00142,J0054,R04,Filled,2024-07-30,,All openings filled,2026-10-05
+SH00143,J0055,R05,Open,2024-05-18,2024-07-24,Requirement approved,2026-10-05
+SH00144,J0055,R05,Filled,2024-07-24,,All openings filled,2026-10-05
+SH00145,J0056,R06,Open,2024-05-18,2024-09-04,Requirement approved,2026-10-05
+SH00146,J0056,R06,Closed - Unfilled,2024-09-04,,Remaining openings cancelled,2026-10-05
+SH00147,J0057,R07,Open,2024-05-18,2024-05-21,Requirement approved,2026-10-05
+SH00148,J0057,R07,On Hold,2024-05-21,2024-05-28,Budget review,2026-10-05
+SH00149,J0057,R07,Open,2024-05-28,2024-09-04,Hiring resumed,2026-10-05
+SH00150,J0057,R07,Closed - Unfilled,2024-09-04,,Remaining openings cancelled,2026-10-05
+SH00151,J0058,R08,Open,2024-05-18,2024-09-04,Requirement approved,2026-10-05
+SH00152,J0058,R08,Closed - Unfilled,2024-09-04,,Remaining openings cancelled,2026-10-05
+SH00153,J0059,R09,Open,2024-05-18,2024-07-30,Requirement approved,2026-10-05
+SH00154,J0059,R09,Filled,2024-07-30,,All openings filled,2026-10-05
+SH00155,J0060,R10,Open,2024-05-18,2024-09-04,Requirement approved,2026-10-05
+SH00156,J0060,R10,Closed - Unfilled,2024-09-04,,Remaining openings cancelled,2026-10-05
+SH00157,J0061,R01,Open,2024-06-17,2024-06-20,Requirement approved,2026-10-05
+SH00158,J0061,R01,On Hold,2024-06-20,2024-06-27,Client approval pending,2026-10-05
+SH00159,J0061,R01,Open,2024-06-27,2024-10-04,Hiring resumed,2026-10-05
+SH00160,J0061,R01,Closed - Unfilled,2024-10-04,,Remaining openings cancelled,2026-10-05
+SH00161,J0062,R02,Open,2024-06-17,2024-06-20,Requirement approved,2026-10-05
+SH00162,J0062,R02,On Hold,2024-06-20,2024-06-27,Hiring manager unavailable,2026-10-05
+SH00163,J0062,R02,Open,2024-06-27,2024-10-04,Hiring resumed,2026-10-05
+SH00164,J0062,R02,Closed - Unfilled,2024-10-04,,Remaining openings cancelled,2026-10-05
+SH00165,J0063,R03,Open,2024-06-17,2024-10-04,Requirement approved,2026-10-05
+SH00166,J0063,R03,Closed - Unfilled,2024-10-04,,Remaining openings cancelled,2026-10-05
+SH00167,J0064,R04,Open,2024-06-17,2024-06-20,Requirement approved,2026-10-05
+SH00168,J0064,R04,On Hold,2024-06-20,2024-06-27,Budget review,2026-10-05
+SH00169,J0064,R04,Open,2024-06-27,2024-10-04,Hiring resumed,2026-10-05
+SH00170,J0064,R04,Closed - Unfilled,2024-10-04,,Remaining openings cancelled,2026-10-05
+SH00171,J0065,R05,Open,2024-06-17,2024-09-01,Requirement approved,2026-10-05
+SH00172,J0065,R05,Filled,2024-09-01,,All openings filled,2026-10-05
+SH00173,J0066,R06,Open,2024-06-17,2024-10-04,Requirement approved,2026-10-05
+SH00174,J0066,R06,Closed - Unfilled,2024-10-04,,Remaining openings cancelled,2026-10-05
+SH00175,J0067,R07,Open,2024-06-17,2024-10-04,Requirement approved,2026-10-05
+SH00176,J0067,R07,Closed - Unfilled,2024-10-04,,Remaining openings cancelled,2026-10-05
+SH00177,J0068,R08,Open,2024-06-17,2024-09-01,Requirement approved,2026-10-05
+SH00178,J0068,R08,Filled,2024-09-01,,All openings filled,2026-10-05
+SH00179,J0069,R09,Open,2024-06-17,2024-09-06,Requirement approved,2026-10-05
+SH00180,J0069,R09,Filled,2024-09-06,,All openings filled,2026-10-05
+SH00181,J0070,R10,Open,2024-06-17,2024-10-04,Requirement approved,2026-10-05
+SH00182,J0070,R10,Closed - Unfilled,2024-10-04,,Remaining openings cancelled,2026-10-05
+SH00183,J0071,R01,Open,2024-07-18,2024-11-04,Requirement approved,2026-10-05
+SH00184,J0071,R01,Closed - Unfilled,2024-11-04,,Remaining openings cancelled,2026-10-05
+SH00185,J0072,R02,Open,2024-07-18,2024-10-01,Requirement approved,2026-10-05
+SH00186,J0072,R02,Filled,2024-10-01,,All openings filled,2026-10-05
+SH00187,J0073,R03,Open,2024-07-18,2024-07-21,Requirement approved,2026-10-05
+SH00188,J0073,R03,On Hold,2024-07-21,2024-07-28,Hiring manager unavailable,2026-10-05
+SH00189,J0073,R03,Open,2024-07-28,2024-10-06,Hiring resumed,2026-10-05
+SH00190,J0073,R03,Filled,2024-10-06,,All openings filled,2026-10-05
+SH00191,J0074,R04,Open,2024-07-18,2024-09-28,Requirement approved,2026-10-05
+SH00192,J0074,R04,Filled,2024-09-28,,All openings filled,2026-10-05
+SH00193,J0075,R05,Open,2024-07-18,2024-07-21,Requirement approved,2026-10-05
+SH00194,J0075,R05,On Hold,2024-07-21,2024-07-28,Hiring manager unavailable,2026-10-05
+SH00195,J0075,R05,Open,2024-07-28,2024-11-04,Hiring resumed,2026-10-05
+SH00196,J0075,R05,Closed - Unfilled,2024-11-04,,Remaining openings cancelled,2026-10-05
+SH00197,J0076,R06,Open,2024-07-18,2024-07-21,Requirement approved,2026-10-05
+SH00198,J0076,R06,On Hold,2024-07-21,2024-07-28,Client approval pending,2026-10-05
+SH00199,J0076,R06,Open,2024-07-28,2024-09-22,Hiring resumed,2026-10-05
+SH00200,J0076,R06,Filled,2024-09-22,,All openings filled,2026-10-05
+SH00201,J0077,R07,Open,2024-07-18,2024-07-21,Requirement approved,2026-10-05
+SH00202,J0077,R07,On Hold,2024-07-21,2024-07-28,Budget review,2026-10-05
+SH00203,J0077,R07,Open,2024-07-28,2024-11-04,Hiring resumed,2026-10-05
+SH00204,J0077,R07,Closed - Unfilled,2024-11-04,,Remaining openings cancelled,2026-10-05
+SH00205,J0078,R08,Open,2024-07-18,2024-07-21,Requirement approved,2026-10-05
+SH00206,J0078,R08,On Hold,2024-07-21,2024-07-28,Client approval pending,2026-10-05
+SH00207,J0078,R08,Open,2024-07-28,2024-09-21,Hiring resumed,2026-10-05
+SH00208,J0078,R08,Filled,2024-09-21,,All openings filled,2026-10-05
+SH00209,J0079,R09,Open,2024-07-18,2024-11-04,Requirement approved,2026-10-05
+SH00210,J0079,R09,Closed - Unfilled,2024-11-04,,Remaining openings cancelled,2026-10-05
+SH00211,J0080,R10,Open,2024-07-18,2024-11-04,Requirement approved,2026-10-05
+SH00212,J0080,R10,Closed - Unfilled,2024-11-04,,Remaining openings cancelled,2026-10-05
+SH00213,J0081,R01,Open,2024-08-18,2024-10-31,Requirement approved,2026-10-05
+SH00214,J0081,R01,Filled,2024-10-31,,All openings filled,2026-10-05
+SH00215,J0082,R02,Open,2024-08-18,2024-08-21,Requirement approved,2026-10-05
+SH00216,J0082,R02,On Hold,2024-08-21,2024-08-28,Client approval pending,2026-10-05
+SH00217,J0082,R02,Open,2024-08-28,2024-10-31,Hiring resumed,2026-10-05
+SH00218,J0082,R02,Filled,2024-10-31,,All openings filled,2026-10-05
+SH00219,J0083,R03,Open,2024-08-18,2024-08-21,Requirement approved,2026-10-05
+SH00220,J0083,R03,On Hold,2024-08-21,2024-08-28,Budget review,2026-10-05
+SH00221,J0083,R03,Open,2024-08-28,2024-10-29,Hiring resumed,2026-10-05
+SH00222,J0083,R03,Filled,2024-10-29,,All openings filled,2026-10-05
+SH00223,J0084,R04,Open,2024-08-18,2024-10-28,Requirement approved,2026-10-05
+SH00224,J0084,R04,Filled,2024-10-28,,All openings filled,2026-10-05
+SH00225,J0085,R05,Open,2024-08-18,2024-10-21,Requirement approved,2026-10-05
+SH00226,J0085,R05,Filled,2024-10-21,,All openings filled,2026-10-05
+SH00227,J0086,R06,Open,2024-08-18,2024-10-20,Requirement approved,2026-10-05
+SH00228,J0086,R06,Filled,2024-10-20,,All openings filled,2026-10-05
+SH00229,J0087,R07,Open,2024-08-18,2024-10-30,Requirement approved,2026-10-05
+SH00230,J0087,R07,Filled,2024-10-30,,All openings filled,2026-10-05
+SH00231,J0088,R08,Open,2024-08-18,2024-08-21,Requirement approved,2026-10-05
+SH00232,J0088,R08,On Hold,2024-08-21,2024-08-28,Client approval pending,2026-10-05
+SH00233,J0088,R08,Open,2024-08-28,2024-12-05,Hiring resumed,2026-10-05
+SH00234,J0088,R08,Closed - Unfilled,2024-12-05,,Remaining openings cancelled,2026-10-05
+SH00235,J0089,R09,Open,2024-08-18,2024-11-04,Requirement approved,2026-10-05
+SH00236,J0089,R09,Filled,2024-11-04,,All openings filled,2026-10-05
+SH00237,J0090,R10,Open,2024-08-18,2024-08-21,Requirement approved,2026-10-05
+SH00238,J0090,R10,On Hold,2024-08-21,2024-08-28,Client approval pending,2026-10-05
+SH00239,J0090,R10,Open,2024-08-28,2024-10-28,Hiring resumed,2026-10-05
+SH00240,J0090,R10,Filled,2024-10-28,,All openings filled,2026-10-05
+SH00241,J0091,R01,Open,2024-09-17,2024-09-20,Requirement approved,2026-10-05
+SH00242,J0091,R01,On Hold,2024-09-20,2024-09-27,Hiring manager unavailable,2026-10-05
+SH00243,J0091,R01,Open,2024-09-27,2025-01-04,Hiring resumed,2026-10-05
+SH00244,J0091,R01,Closed - Unfilled,2025-01-04,,Remaining openings cancelled,2026-10-05
+SH00245,J0092,R02,Open,2024-09-17,2025-01-04,Requirement approved,2026-10-05
+SH00246,J0092,R02,Closed - Unfilled,2025-01-04,,Remaining openings cancelled,2026-10-05
+SH00247,J0093,R03,Open,2024-09-17,2025-01-04,Requirement approved,2026-10-05
+SH00248,J0093,R03,Closed - Unfilled,2025-01-04,,Remaining openings cancelled,2026-10-05
+SH00249,J0094,R04,Open,2024-09-17,2025-01-04,Requirement approved,2026-10-05
+SH00250,J0094,R04,Closed - Unfilled,2025-01-04,,Remaining openings cancelled,2026-10-05
+SH00251,J0095,R05,Open,2024-09-17,2025-01-04,Requirement approved,2026-10-05
+SH00252,J0095,R05,Closed - Unfilled,2025-01-04,,Remaining openings cancelled,2026-10-05
+SH00253,J0096,R06,Open,2024-09-17,2025-01-04,Requirement approved,2026-10-05
+SH00254,J0096,R06,Closed - Unfilled,2025-01-04,,Remaining openings cancelled,2026-10-05
+SH00255,J0097,R07,Open,2024-09-17,2024-11-25,Requirement approved,2026-10-05
+SH00256,J0097,R07,Filled,2024-11-25,,All openings filled,2026-10-05
+SH00257,J0098,R08,Open,2024-09-17,2024-12-02,Requirement approved,2026-10-05
+SH00258,J0098,R08,Filled,2024-12-02,,All openings filled,2026-10-05
+SH00259,J0099,R09,Open,2024-09-17,2024-09-20,Requirement approved,2026-10-05
+SH00260,J0099,R09,On Hold,2024-09-20,2024-09-27,Budget review,2026-10-05
+SH00261,J0099,R09,Open,2024-09-27,2024-11-24,Hiring resumed,2026-10-05
+SH00262,J0099,R09,Filled,2024-11-24,,All openings filled,2026-10-05
+SH00263,J0100,R10,Open,2024-09-17,2024-12-13,Requirement approved,2026-10-05
+SH00264,J0100,R10,Filled,2024-12-13,,All openings filled,2026-10-05
+SH00265,J0101,R01,Open,2024-10-18,2025-02-04,Requirement approved,2026-10-05
+SH00266,J0101,R01,Closed - Unfilled,2025-02-04,,Remaining openings cancelled,2026-10-05
+SH00267,J0102,R02,Open,2024-10-18,2024-10-21,Requirement approved,2026-10-05
+SH00268,J0102,R02,On Hold,2024-10-21,2024-10-28,Budget review,2026-10-05
+SH00269,J0102,R02,Open,2024-10-28,2024-12-25,Hiring resumed,2026-10-05
+SH00270,J0102,R02,Filled,2024-12-25,,All openings filled,2026-10-05
+SH00271,J0103,R03,Open,2024-10-18,2024-12-30,Requirement approved,2026-10-05
+SH00272,J0103,R03,Filled,2024-12-30,,All openings filled,2026-10-05
+SH00273,J0104,R04,Open,2024-10-18,2024-12-26,Requirement approved,2026-10-05
+SH00274,J0104,R04,Filled,2024-12-26,,All openings filled,2026-10-05
+SH00275,J0105,R05,Open,2024-10-18,2024-12-26,Requirement approved,2026-10-05
+SH00276,J0105,R05,Filled,2024-12-26,,All openings filled,2026-10-05
+SH00277,J0106,R06,Open,2024-10-18,2024-10-21,Requirement approved,2026-10-05
+SH00278,J0106,R06,On Hold,2024-10-21,2024-10-28,Hiring manager unavailable,2026-10-05
+SH00279,J0106,R06,Open,2024-10-28,2025-02-04,Hiring resumed,2026-10-05
+SH00280,J0106,R06,Closed - Unfilled,2025-02-04,,Remaining openings cancelled,2026-10-05
+SH00281,J0107,R07,Open,2024-10-18,2024-10-21,Requirement approved,2026-10-05
+SH00282,J0107,R07,On Hold,2024-10-21,2024-10-28,Budget review,2026-10-05
+SH00283,J0107,R07,Open,2024-10-28,2025-02-04,Hiring resumed,2026-10-05
+SH00284,J0107,R07,Closed - Unfilled,2025-02-04,,Remaining openings cancelled,2026-10-05
+SH00285,J0108,R08,Open,2024-10-18,2025-02-04,Requirement approved,2026-10-05
+SH00286,J0108,R08,Closed - Unfilled,2025-02-04,,Remaining openings cancelled,2026-10-05
+SH00287,J0109,R09,Open,2024-10-18,2024-10-21,Requirement approved,2026-10-05
+SH00288,J0109,R09,On Hold,2024-10-21,2024-10-28,Client approval pending,2026-10-05
+SH00289,J0109,R09,Open,2024-10-28,2025-02-04,Hiring resumed,2026-10-05
+SH00290,J0109,R09,Closed - Unfilled,2025-02-04,,Remaining openings cancelled,2026-10-05
+SH00291,J0110,R10,Open,2024-10-18,2024-10-21,Requirement approved,2026-10-05
+SH00292,J0110,R10,On Hold,2024-10-21,2024-10-28,Client approval pending,2026-10-05
+SH00293,J0110,R10,Open,2024-10-28,2024-12-26,Hiring resumed,2026-10-05
+SH00294,J0110,R10,Filled,2024-12-26,,All openings filled,2026-10-05
+SH00295,J0111,R01,Open,2024-11-17,2025-03-06,Requirement approved,2026-10-05
+SH00296,J0111,R01,Closed - Unfilled,2025-03-06,,Remaining openings cancelled,2026-10-05
+SH00297,J0112,R02,Open,2024-11-17,2025-01-26,Requirement approved,2026-10-05
+SH00298,J0112,R02,Filled,2025-01-26,,All openings filled,2026-10-05
+SH00299,J0113,R03,Open,2024-11-17,2025-01-30,Requirement approved,2026-10-05
+SH00300,J0113,R03,Filled,2025-01-30,,All openings filled,2026-10-05
+SH00301,J0114,R04,Open,2024-11-17,2024-11-20,Requirement approved,2026-10-05
+SH00302,J0114,R04,On Hold,2024-11-20,2024-11-27,Hiring manager unavailable,2026-10-05
+SH00303,J0114,R04,Open,2024-11-27,2025-01-22,Hiring resumed,2026-10-05
+SH00304,J0114,R04,Filled,2025-01-22,,All openings filled,2026-10-05
+SH00305,J0115,R05,Open,2024-11-17,2025-03-06,Requirement approved,2026-10-05
+SH00306,J0115,R05,Closed - Unfilled,2025-03-06,,Remaining openings cancelled,2026-10-05
+SH00307,J0116,R06,Open,2024-11-17,2024-11-20,Requirement approved,2026-10-05
+SH00308,J0116,R06,On Hold,2024-11-20,2024-11-27,Budget review,2026-10-05
+SH00309,J0116,R06,Open,2024-11-27,2025-01-31,Hiring resumed,2026-10-05
+SH00310,J0116,R06,Filled,2025-01-31,,All openings filled,2026-10-05
+SH00311,J0117,R07,Open,2024-11-17,2025-01-23,Requirement approved,2026-10-05
+SH00312,J0117,R07,Filled,2025-01-23,,All openings filled,2026-10-05
+SH00313,J0118,R08,Open,2024-11-17,2025-03-06,Requirement approved,2026-10-05
+SH00314,J0118,R08,Closed - Unfilled,2025-03-06,,Remaining openings cancelled,2026-10-05
+SH00315,J0119,R09,Open,2024-11-17,2024-11-20,Requirement approved,2026-10-05
+SH00316,J0119,R09,On Hold,2024-11-20,2024-11-27,Budget review,2026-10-05
+SH00317,J0119,R09,Open,2024-11-27,2025-03-06,Hiring resumed,2026-10-05
+SH00318,J0119,R09,Closed - Unfilled,2025-03-06,,Remaining openings cancelled,2026-10-05
+SH00319,J0120,R10,Open,2024-11-17,2025-01-25,Requirement approved,2026-10-05
+SH00320,J0120,R10,Filled,2025-01-25,,All openings filled,2026-10-05
+SH00321,J0121,R01,Open,2024-12-18,2025-04-06,Requirement approved,2026-10-05
+SH00322,J0121,R01,Closed - Unfilled,2025-04-06,,Remaining openings cancelled,2026-10-05
+SH00323,J0122,R02,Open,2024-12-18,2024-12-21,Requirement approved,2026-10-05
+SH00324,J0122,R02,On Hold,2024-12-21,2024-12-28,Hiring manager unavailable,2026-10-05
+SH00325,J0122,R02,Open,2024-12-28,2025-04-06,Hiring resumed,2026-10-05
+SH00326,J0122,R02,Closed - Unfilled,2025-04-06,,Remaining openings cancelled,2026-10-05
+SH00327,J0123,R03,Open,2024-12-18,2024-12-21,Requirement approved,2026-10-05
+SH00328,J0123,R03,On Hold,2024-12-21,2024-12-28,Budget review,2026-10-05
+SH00329,J0123,R03,Open,2024-12-28,2025-04-06,Hiring resumed,2026-10-05
+SH00330,J0123,R03,Closed - Unfilled,2025-04-06,,Remaining openings cancelled,2026-10-05
+SH00331,J0124,R04,Open,2024-12-18,2025-04-06,Requirement approved,2026-10-05
+SH00332,J0124,R04,Closed - Unfilled,2025-04-06,,Remaining openings cancelled,2026-10-05
+SH00333,J0125,R05,Open,2024-12-18,2025-03-01,Requirement approved,2026-10-05
+SH00334,J0125,R05,Filled,2025-03-01,,All openings filled,2026-10-05
+SH00335,J0126,R06,Open,2024-12-18,2025-02-27,Requirement approved,2026-10-05
+SH00336,J0126,R06,Filled,2025-02-27,,All openings filled,2026-10-05
+SH00337,J0127,R07,Open,2024-12-18,2025-04-06,Requirement approved,2026-10-05
+SH00338,J0127,R07,Closed - Unfilled,2025-04-06,,Remaining openings cancelled,2026-10-05
+SH00339,J0128,R08,Open,2024-12-18,2025-03-09,Requirement approved,2026-10-05
+SH00340,J0128,R08,Filled,2025-03-09,,All openings filled,2026-10-05
+SH00341,J0129,R09,Open,2024-12-18,2024-12-21,Requirement approved,2026-10-05
+SH00342,J0129,R09,On Hold,2024-12-21,2024-12-28,Client approval pending,2026-10-05
+SH00343,J0129,R09,Open,2024-12-28,2025-04-06,Hiring resumed,2026-10-05
+SH00344,J0129,R09,Closed - Unfilled,2025-04-06,,Remaining openings cancelled,2026-10-05
+SH00345,J0130,R10,Open,2024-12-18,2024-12-21,Requirement approved,2026-10-05
+SH00346,J0130,R10,On Hold,2024-12-21,2024-12-28,Budget review,2026-10-05
+SH00347,J0130,R10,Open,2024-12-28,2025-04-06,Hiring resumed,2026-10-05
+SH00348,J0130,R10,Closed - Unfilled,2025-04-06,,Remaining openings cancelled,2026-10-05
+SH00349,J0131,R01,Open,2025-01-18,2025-05-07,Requirement approved,2026-10-05
+SH00350,J0131,R01,Closed - Unfilled,2025-05-07,,Remaining openings cancelled,2026-10-05
+SH00351,J0132,R02,Open,2025-01-18,2025-05-07,Requirement approved,2026-10-05
+SH00352,J0132,R02,Closed - Unfilled,2025-05-07,,Remaining openings cancelled,2026-10-05
+SH00353,J0133,R03,Open,2025-01-18,2025-03-27,Requirement approved,2026-10-05
+SH00354,J0133,R03,Filled,2025-03-27,,All openings filled,2026-10-05
+SH00355,J0134,R04,Open,2025-01-18,2025-03-30,Requirement approved,2026-10-05
+SH00356,J0134,R04,Filled,2025-03-30,,All openings filled,2026-10-05
+SH00357,J0135,R05,Open,2025-01-18,2025-01-21,Requirement approved,2026-10-05
+SH00358,J0135,R05,On Hold,2025-01-21,2025-01-28,Client approval pending,2026-10-05
+SH00359,J0135,R05,Open,2025-01-28,2025-05-07,Hiring resumed,2026-10-05
+SH00360,J0135,R05,Closed - Unfilled,2025-05-07,,Remaining openings cancelled,2026-10-05
+SH00361,J0136,R06,Open,2025-01-18,2025-01-21,Requirement approved,2026-10-05
+SH00362,J0136,R06,On Hold,2025-01-21,2025-01-28,Hiring manager unavailable,2026-10-05
+SH00363,J0136,R06,Open,2025-01-28,2025-03-27,Hiring resumed,2026-10-05
+SH00364,J0136,R06,Filled,2025-03-27,,All openings filled,2026-10-05
+SH00365,J0137,R07,Open,2025-01-18,2025-05-07,Requirement approved,2026-10-05
+SH00366,J0137,R07,Closed - Unfilled,2025-05-07,,Remaining openings cancelled,2026-10-05
+SH00367,J0138,R08,Open,2025-01-18,2025-03-28,Requirement approved,2026-10-05
+SH00368,J0138,R08,Filled,2025-03-28,,All openings filled,2026-10-05
+SH00369,J0139,R09,Open,2025-01-18,2025-01-21,Requirement approved,2026-10-05
+SH00370,J0139,R09,On Hold,2025-01-21,2025-01-28,Budget review,2026-10-05
+SH00371,J0139,R09,Open,2025-01-28,2025-03-25,Hiring resumed,2026-10-05
+SH00372,J0139,R09,Filled,2025-03-25,,All openings filled,2026-10-05
+SH00373,J0140,R10,Open,2025-01-18,2025-05-07,Requirement approved,2026-10-05
+SH00374,J0140,R10,Closed - Unfilled,2025-05-07,,Remaining openings cancelled,2026-10-05
+SH00375,J0141,R01,Open,2025-02-15,2025-02-18,Requirement approved,2026-10-05
+SH00376,J0141,R01,On Hold,2025-02-18,2025-02-25,Hiring manager unavailable,2026-10-05
+SH00377,J0141,R01,Open,2025-02-25,2025-04-28,Hiring resumed,2026-10-05
+SH00378,J0141,R01,Filled,2025-04-28,,All openings filled,2026-10-05
+SH00379,J0142,R02,Open,2025-02-15,2025-06-04,Requirement approved,2026-10-05
+SH00380,J0142,R02,Closed - Unfilled,2025-06-04,,Remaining openings cancelled,2026-10-05
+SH00381,J0143,R03,Open,2025-02-15,2025-02-18,Requirement approved,2026-10-05
+SH00382,J0143,R03,On Hold,2025-02-18,2025-02-25,Hiring manager unavailable,2026-10-05
+SH00383,J0143,R03,Open,2025-02-25,2025-06-04,Hiring resumed,2026-10-05
+SH00384,J0143,R03,Closed - Unfilled,2025-06-04,,Remaining openings cancelled,2026-10-05
+SH00385,J0144,R04,Open,2025-02-15,2025-02-18,Requirement approved,2026-10-05
+SH00386,J0144,R04,On Hold,2025-02-18,2025-02-25,Budget review,2026-10-05
+SH00387,J0144,R04,Open,2025-02-25,2025-06-04,Hiring resumed,2026-10-05
+SH00388,J0144,R04,Closed - Unfilled,2025-06-04,,Remaining openings cancelled,2026-10-05
+SH00389,J0145,R05,Open,2025-02-15,2025-06-04,Requirement approved,2026-10-05
+SH00390,J0145,R05,Closed - Unfilled,2025-06-04,,Remaining openings cancelled,2026-10-05
+SH00391,J0146,R06,Open,2025-02-15,2025-04-25,Requirement approved,2026-10-05
+SH00392,J0146,R06,Filled,2025-04-25,,All openings filled,2026-10-05
+SH00393,J0147,R07,Open,2025-02-15,2025-06-04,Requirement approved,2026-10-05
+SH00394,J0147,R07,Closed - Unfilled,2025-06-04,,Remaining openings cancelled,2026-10-05
+SH00395,J0148,R08,Open,2025-02-15,2025-06-04,Requirement approved,2026-10-05
+SH00396,J0148,R08,Closed - Unfilled,2025-06-04,,Remaining openings cancelled,2026-10-05
+SH00397,J0149,R09,Open,2025-02-15,2025-02-18,Requirement approved,2026-10-05
+SH00398,J0149,R09,On Hold,2025-02-18,2025-02-25,Budget review,2026-10-05
+SH00399,J0149,R09,Open,2025-02-25,2025-04-28,Hiring resumed,2026-10-05
+SH00400,J0149,R09,Filled,2025-04-28,,All openings filled,2026-10-05
+SH00401,J0150,R10,Open,2025-02-15,2025-06-04,Requirement approved,2026-10-05
+SH00402,J0150,R10,Closed - Unfilled,2025-06-04,,Remaining openings cancelled,2026-10-05
+SH00403,J0151,R01,Open,2025-03-18,2025-07-05,Requirement approved,2026-10-05
+SH00404,J0151,R01,Closed - Unfilled,2025-07-05,,Remaining openings cancelled,2026-10-05
+SH00405,J0152,R02,Open,2025-03-18,2025-05-30,Requirement approved,2026-10-05
+SH00406,J0152,R02,Filled,2025-05-30,,All openings filled,2026-10-05
+SH00407,J0153,R03,Open,2025-03-18,2025-07-05,Requirement approved,2026-10-05
+SH00408,J0153,R03,Closed - Unfilled,2025-07-05,,Remaining openings cancelled,2026-10-05
+SH00409,J0154,R04,Open,2025-03-18,2025-03-21,Requirement approved,2026-10-05
+SH00410,J0154,R04,On Hold,2025-03-21,2025-03-28,Client approval pending,2026-10-05
+SH00411,J0154,R04,Open,2025-03-28,2025-07-05,Hiring resumed,2026-10-05
+SH00412,J0154,R04,Closed - Unfilled,2025-07-05,,Remaining openings cancelled,2026-10-05
+SH00413,J0155,R05,Open,2025-03-18,2025-03-21,Requirement approved,2026-10-05
+SH00414,J0155,R05,On Hold,2025-03-21,2025-03-28,Client approval pending,2026-10-05
+SH00415,J0155,R05,Open,2025-03-28,2025-07-05,Hiring resumed,2026-10-05
+SH00416,J0155,R05,Closed - Unfilled,2025-07-05,,Remaining openings cancelled,2026-10-05
+SH00417,J0156,R06,Open,2025-03-18,2025-05-27,Requirement approved,2026-10-05
+SH00418,J0156,R06,Filled,2025-05-27,,All openings filled,2026-10-05
+SH00419,J0157,R07,Open,2025-03-18,2025-05-29,Requirement approved,2026-10-05
+SH00420,J0157,R07,Filled,2025-05-29,,All openings filled,2026-10-05
+SH00421,J0158,R08,Open,2025-03-18,2025-03-21,Requirement approved,2026-10-05
+SH00422,J0158,R08,On Hold,2025-03-21,2025-03-28,Hiring manager unavailable,2026-10-05
+SH00423,J0158,R08,Open,2025-03-28,2025-07-05,Hiring resumed,2026-10-05
+SH00424,J0158,R08,Closed - Unfilled,2025-07-05,,Remaining openings cancelled,2026-10-05
+SH00425,J0159,R09,Open,2025-03-18,2025-07-05,Requirement approved,2026-10-05
+SH00426,J0159,R09,Closed - Unfilled,2025-07-05,,Remaining openings cancelled,2026-10-05
+SH00427,J0160,R10,Open,2025-03-18,2025-03-21,Requirement approved,2026-10-05
+SH00428,J0160,R10,On Hold,2025-03-21,2025-03-28,Budget review,2026-10-05
+SH00429,J0160,R10,Open,2025-03-28,2025-07-05,Hiring resumed,2026-10-05
+SH00430,J0160,R10,Closed - Unfilled,2025-07-05,,Remaining openings cancelled,2026-10-05
+SH00431,J0161,R01,Open,2025-04-17,2025-04-20,Requirement approved,2026-10-05
+SH00432,J0161,R01,On Hold,2025-04-20,2025-04-27,Hiring manager unavailable,2026-10-05
+SH00433,J0161,R01,Open,2025-04-27,2025-08-04,Hiring resumed,2026-10-05
+SH00434,J0161,R01,Closed - Unfilled,2025-08-04,,Remaining openings cancelled,2026-10-05
+SH00435,J0162,R02,Open,2025-04-17,2025-04-20,Requirement approved,2026-10-05
+SH00436,J0162,R02,On Hold,2025-04-20,2025-04-27,Budget review,2026-10-05
+SH00437,J0162,R02,Open,2025-04-27,2025-08-04,Hiring resumed,2026-10-05
+SH00438,J0162,R02,Closed - Unfilled,2025-08-04,,Remaining openings cancelled,2026-10-05
+SH00439,J0163,R03,Open,2025-04-17,2025-04-20,Requirement approved,2026-10-05
+SH00440,J0163,R03,On Hold,2025-04-20,2025-04-27,Budget review,2026-10-05
+SH00441,J0163,R03,Open,2025-04-27,2025-08-04,Hiring resumed,2026-10-05
+SH00442,J0163,R03,Closed - Unfilled,2025-08-04,,Remaining openings cancelled,2026-10-05
+SH00443,J0164,R04,Open,2025-04-17,2025-06-27,Requirement approved,2026-10-05
+SH00444,J0164,R04,Filled,2025-06-27,,All openings filled,2026-10-05
+SH00445,J0165,R05,Open,2025-04-17,2025-08-04,Requirement approved,2026-10-05
+SH00446,J0165,R05,Closed - Unfilled,2025-08-04,,Remaining openings cancelled,2026-10-05
+SH00447,J0166,R06,Open,2025-04-17,2025-07-12,Requirement approved,2026-10-05
+SH00448,J0166,R06,Filled,2025-07-12,,All openings filled,2026-10-05
+SH00449,J0167,R07,Open,2025-04-17,2025-04-20,Requirement approved,2026-10-05
+SH00450,J0167,R07,On Hold,2025-04-20,2025-04-27,Budget review,2026-10-05
+SH00451,J0167,R07,Open,2025-04-27,2025-07-04,Hiring resumed,2026-10-05
+SH00452,J0167,R07,Filled,2025-07-04,,All openings filled,2026-10-05
+SH00453,J0168,R08,Open,2025-04-17,2025-04-20,Requirement approved,2026-10-05
+SH00454,J0168,R08,On Hold,2025-04-20,2025-04-27,Budget review,2026-10-05
+SH00455,J0168,R08,Open,2025-04-27,2025-08-04,Hiring resumed,2026-10-05
+SH00456,J0168,R08,Closed - Unfilled,2025-08-04,,Remaining openings cancelled,2026-10-05
+SH00457,J0169,R09,Open,2025-04-17,2025-04-20,Requirement approved,2026-10-05
+SH00458,J0169,R09,On Hold,2025-04-20,2025-04-27,Budget review,2026-10-05
+SH00459,J0169,R09,Open,2025-04-27,2025-06-28,Hiring resumed,2026-10-05
+SH00460,J0169,R09,Filled,2025-06-28,,All openings filled,2026-10-05
+SH00461,J0170,R10,Open,2025-04-17,2025-04-20,Requirement approved,2026-10-05
+SH00462,J0170,R10,On Hold,2025-04-20,2025-04-27,Budget review,2026-10-05
+SH00463,J0170,R10,Open,2025-04-27,2025-08-04,Hiring resumed,2026-10-05
+SH00464,J0170,R10,Closed - Unfilled,2025-08-04,,Remaining openings cancelled,2026-10-05
+SH00465,J0171,R01,Open,2025-05-18,2025-08-02,Requirement approved,2026-10-05
+SH00466,J0171,R01,Filled,2025-08-02,,All openings filled,2026-10-05
+SH00467,J0172,R02,Open,2025-05-18,2025-05-21,Requirement approved,2026-10-05
+SH00468,J0172,R02,On Hold,2025-05-21,2025-05-28,Hiring manager unavailable,2026-10-05
+SH00469,J0172,R02,Open,2025-05-28,2025-07-31,Hiring resumed,2026-10-05
+SH00470,J0172,R02,Filled,2025-07-31,,All openings filled,2026-10-05
+SH00471,J0173,R03,Open,2025-05-18,2025-05-21,Requirement approved,2026-10-05
+SH00472,J0173,R03,On Hold,2025-05-21,2025-05-28,Client approval pending,2026-10-05
+SH00473,J0173,R03,Open,2025-05-28,2025-07-19,Hiring resumed,2026-10-05
+SH00474,J0173,R03,Filled,2025-07-19,,All openings filled,2026-10-05
+SH00475,J0174,R04,Open,2025-05-18,2025-05-21,Requirement approved,2026-10-05
+SH00476,J0174,R04,On Hold,2025-05-21,2025-05-28,Hiring manager unavailable,2026-10-05
+SH00477,J0174,R04,Open,2025-05-28,2025-09-04,Hiring resumed,2026-10-05
+SH00478,J0174,R04,Closed - Unfilled,2025-09-04,,Remaining openings cancelled,2026-10-05
+SH00479,J0175,R05,Open,2025-05-18,2025-07-31,Requirement approved,2026-10-05
+SH00480,J0175,R05,Filled,2025-07-31,,All openings filled,2026-10-05
+SH00481,J0176,R06,Open,2025-05-18,2025-09-04,Requirement approved,2026-10-05
+SH00482,J0176,R06,Closed - Unfilled,2025-09-04,,Remaining openings cancelled,2026-10-05
+SH00483,J0177,R07,Open,2025-05-18,2025-05-21,Requirement approved,2026-10-05
+SH00484,J0177,R07,On Hold,2025-05-21,2025-05-28,Client approval pending,2026-10-05
+SH00485,J0177,R07,Open,2025-05-28,2025-09-04,Hiring resumed,2026-10-05
+SH00486,J0177,R07,Closed - Unfilled,2025-09-04,,Remaining openings cancelled,2026-10-05
+SH00487,J0178,R08,Open,2025-05-18,2025-05-21,Requirement approved,2026-10-05
+SH00488,J0178,R08,On Hold,2025-05-21,2025-05-28,Client approval pending,2026-10-05
+SH00489,J0178,R08,Open,2025-05-28,2025-09-04,Hiring resumed,2026-10-05
+SH00490,J0178,R08,Closed - Unfilled,2025-09-04,,Remaining openings cancelled,2026-10-05
+SH00491,J0179,R09,Open,2025-05-18,2025-09-04,Requirement approved,2026-10-05
+SH00492,J0179,R09,Closed - Unfilled,2025-09-04,,Remaining openings cancelled,2026-10-05
+SH00493,J0180,R10,Open,2025-05-18,2025-07-31,Requirement approved,2026-10-05
+SH00494,J0180,R10,Filled,2025-07-31,,All openings filled,2026-10-05
+SH00495,J0181,R01,Open,2025-06-17,2025-10-04,Requirement approved,2026-10-05
+SH00496,J0181,R01,Closed - Unfilled,2025-10-04,,Remaining openings cancelled,2026-10-05
+SH00497,J0182,R02,Open,2025-06-17,2025-10-04,Requirement approved,2026-10-05
+SH00498,J0182,R02,Closed - Unfilled,2025-10-04,,Remaining openings cancelled,2026-10-05
+SH00499,J0183,R03,Open,2025-06-17,2025-09-04,Requirement approved,2026-10-05
+SH00500,J0183,R03,Filled,2025-09-04,,All openings filled,2026-10-05
+SH00501,J0184,R04,Open,2025-06-17,2025-10-04,Requirement approved,2026-10-05
+SH00502,J0184,R04,Closed - Unfilled,2025-10-04,,Remaining openings cancelled,2026-10-05
+SH00503,J0185,R05,Open,2025-06-17,2025-09-03,Requirement approved,2026-10-05
+SH00504,J0185,R05,Filled,2025-09-03,,All openings filled,2026-10-05
+SH00505,J0186,R06,Open,2025-06-17,2025-06-20,Requirement approved,2026-10-05
+SH00506,J0186,R06,On Hold,2025-06-20,2025-06-27,Client approval pending,2026-10-05
+SH00507,J0186,R06,Open,2025-06-27,2025-10-04,Hiring resumed,2026-10-05
+SH00508,J0186,R06,Closed - Unfilled,2025-10-04,,Remaining openings cancelled,2026-10-05
+SH00509,J0187,R07,Open,2025-06-17,2025-06-20,Requirement approved,2026-10-05
+SH00510,J0187,R07,On Hold,2025-06-20,2025-06-27,Hiring manager unavailable,2026-10-05
+SH00511,J0187,R07,Open,2025-06-27,2025-10-04,Hiring resumed,2026-10-05
+SH00512,J0187,R07,Closed - Unfilled,2025-10-04,,Remaining openings cancelled,2026-10-05
+SH00513,J0188,R08,Open,2025-06-17,2025-10-04,Requirement approved,2026-10-05
+SH00514,J0188,R08,Closed - Unfilled,2025-10-04,,Remaining openings cancelled,2026-10-05
+SH00515,J0189,R09,Open,2025-06-17,2025-09-01,Requirement approved,2026-10-05
+SH00516,J0189,R09,Filled,2025-09-01,,All openings filled,2026-10-05
+SH00517,J0190,R10,Open,2025-06-17,2025-10-04,Requirement approved,2026-10-05
+SH00518,J0190,R10,Closed - Unfilled,2025-10-04,,Remaining openings cancelled,2026-10-05
+SH00519,J0191,R01,Open,2025-07-18,2025-07-21,Requirement approved,2026-10-05
+SH00520,J0191,R01,On Hold,2025-07-21,2025-07-28,Hiring manager unavailable,2026-10-05
+SH00521,J0191,R01,Open,2025-07-28,2025-09-29,Hiring resumed,2026-10-05
+SH00522,J0191,R01,Filled,2025-09-29,,All openings filled,2026-10-05
+SH00523,J0192,R02,Open,2025-07-18,2025-11-04,Requirement approved,2026-10-05
+SH00524,J0192,R02,Closed - Unfilled,2025-11-04,,Remaining openings cancelled,2026-10-05
+SH00525,J0193,R03,Open,2025-07-18,2025-07-21,Requirement approved,2026-10-05
+SH00526,J0193,R03,On Hold,2025-07-21,2025-07-28,Budget review,2026-10-05
+SH00527,J0193,R03,Open,2025-07-28,2025-11-04,Hiring resumed,2026-10-05
+SH00528,J0193,R03,Closed - Unfilled,2025-11-04,,Remaining openings cancelled,2026-10-05
+SH00529,J0194,R04,Open,2025-07-18,2025-09-23,Requirement approved,2026-10-05
+SH00530,J0194,R04,Filled,2025-09-23,,All openings filled,2026-10-05
+SH00531,J0195,R05,Open,2025-07-18,2025-07-21,Requirement approved,2026-10-05
+SH00532,J0195,R05,On Hold,2025-07-21,2025-07-28,Budget review,2026-10-05
+SH00533,J0195,R05,Open,2025-07-28,2025-11-04,Hiring resumed,2026-10-05
+SH00534,J0195,R05,Closed - Unfilled,2025-11-04,,Remaining openings cancelled,2026-10-05
+SH00535,J0196,R06,Open,2025-07-18,2025-11-04,Requirement approved,2026-10-05
+SH00536,J0196,R06,Closed - Unfilled,2025-11-04,,Remaining openings cancelled,2026-10-05
+SH00537,J0197,R07,Open,2025-07-18,2025-07-21,Requirement approved,2026-10-05
+SH00538,J0197,R07,On Hold,2025-07-21,2025-07-28,Budget review,2026-10-05
+SH00539,J0197,R07,Open,2025-07-28,2025-09-25,Hiring resumed,2026-10-05
+SH00540,J0197,R07,Filled,2025-09-25,,All openings filled,2026-10-05
+SH00541,J0198,R08,Open,2025-07-18,2025-09-20,Requirement approved,2026-10-05
+SH00542,J0198,R08,Filled,2025-09-20,,All openings filled,2026-10-05
+SH00543,J0199,R09,Open,2025-07-18,2025-11-04,Requirement approved,2026-10-05
+SH00544,J0199,R09,Closed - Unfilled,2025-11-04,,Remaining openings cancelled,2026-10-05
+SH00545,J0200,R10,Open,2025-07-18,2025-11-04,Requirement approved,2026-10-05
+SH00546,J0200,R10,Closed - Unfilled,2025-11-04,,Remaining openings cancelled,2026-10-05
+SH00547,J0201,R01,Open,2025-08-18,2025-08-21,Requirement approved,2026-10-05
+SH00548,J0201,R01,On Hold,2025-08-21,2025-08-28,Client approval pending,2026-10-05
+SH00549,J0201,R01,Open,2025-08-28,2025-12-05,Hiring resumed,2026-10-05
+SH00550,J0201,R01,Closed - Unfilled,2025-12-05,,Remaining openings cancelled,2026-10-05
+SH00551,J0202,R02,Open,2025-08-18,2025-12-05,Requirement approved,2026-10-05
+SH00552,J0202,R02,Closed - Unfilled,2025-12-05,,Remaining openings cancelled,2026-10-05
+SH00553,J0203,R03,Open,2025-08-18,2025-12-05,Requirement approved,2026-10-05
+SH00554,J0203,R03,Closed - Unfilled,2025-12-05,,Remaining openings cancelled,2026-10-05
+SH00555,J0204,R04,Open,2025-08-18,2025-12-05,Requirement approved,2026-10-05
+SH00556,J0204,R04,Closed - Unfilled,2025-12-05,,Remaining openings cancelled,2026-10-05
+SH00557,J0205,R05,Open,2025-08-18,2025-12-05,Requirement approved,2026-10-05
+SH00558,J0205,R05,Closed - Unfilled,2025-12-05,,Remaining openings cancelled,2026-10-05
+SH00559,J0206,R06,Open,2025-08-18,2025-12-05,Requirement approved,2026-10-05
+SH00560,J0206,R06,Closed - Unfilled,2025-12-05,,Remaining openings cancelled,2026-10-05
+SH00561,J0207,R07,Open,2025-08-18,2025-12-05,Requirement approved,2026-10-05
+SH00562,J0207,R07,Closed - Unfilled,2025-12-05,,Remaining openings cancelled,2026-10-05
+SH00563,J0208,R08,Open,2025-08-18,2025-10-29,Requirement approved,2026-10-05
+SH00564,J0208,R08,Filled,2025-10-29,,All openings filled,2026-10-05
+SH00565,J0209,R09,Open,2025-08-18,2025-08-21,Requirement approved,2026-10-05
+SH00566,J0209,R09,On Hold,2025-08-21,2025-08-28,Client approval pending,2026-10-05
+SH00567,J0209,R09,Open,2025-08-28,2025-10-22,Hiring resumed,2026-10-05
+SH00568,J0209,R09,Filled,2025-10-22,,All openings filled,2026-10-05
+SH00569,J0210,R10,Open,2025-08-18,2025-10-29,Requirement approved,2026-10-05
+SH00570,J0210,R10,Filled,2025-10-29,,All openings filled,2026-10-05
+SH00571,J0211,R01,Open,2025-09-17,2025-09-20,Requirement approved,2026-10-05
+SH00572,J0211,R01,On Hold,2025-09-20,2025-09-27,Client approval pending,2026-10-05
+SH00573,J0211,R01,Open,2025-09-27,2026-01-04,Hiring resumed,2026-10-05
+SH00574,J0211,R01,Closed - Unfilled,2026-01-04,,Remaining openings cancelled,2026-10-05
+SH00575,J0212,R02,Open,2025-09-17,2026-01-04,Requirement approved,2026-10-05
+SH00576,J0212,R02,Closed - Unfilled,2026-01-04,,Remaining openings cancelled,2026-10-05
+SH00577,J0213,R03,Open,2025-09-17,2025-11-28,Requirement approved,2026-10-05
+SH00578,J0213,R03,Filled,2025-11-28,,All openings filled,2026-10-05
+SH00579,J0214,R04,Open,2025-09-17,2026-01-04,Requirement approved,2026-10-05
+SH00580,J0214,R04,Closed - Unfilled,2026-01-04,,Remaining openings cancelled,2026-10-05
+SH00581,J0215,R05,Open,2025-09-17,2025-11-27,Requirement approved,2026-10-05
+SH00582,J0215,R05,Filled,2025-11-27,,All openings filled,2026-10-05
+SH00583,J0216,R06,Open,2025-09-17,2025-11-23,Requirement approved,2026-10-05
+SH00584,J0216,R06,Filled,2025-11-23,,All openings filled,2026-10-05
+SH00585,J0217,R07,Open,2025-09-17,2025-09-20,Requirement approved,2026-10-05
+SH00586,J0217,R07,On Hold,2025-09-20,2025-09-27,Budget review,2026-10-05
+SH00587,J0217,R07,Open,2025-09-27,2025-12-03,Hiring resumed,2026-10-05
+SH00588,J0217,R07,Filled,2025-12-03,,All openings filled,2026-10-05
+SH00589,J0218,R08,Open,2025-09-17,2026-01-04,Requirement approved,2026-10-05
+SH00590,J0218,R08,Closed - Unfilled,2026-01-04,,Remaining openings cancelled,2026-10-05
+SH00591,J0219,R09,Open,2025-09-17,2026-01-04,Requirement approved,2026-10-05
+SH00592,J0219,R09,Closed - Unfilled,2026-01-04,,Remaining openings cancelled,2026-10-05
+SH00593,J0220,R10,Open,2025-09-17,2026-01-04,Requirement approved,2026-10-05
+SH00594,J0220,R10,Closed - Unfilled,2026-01-04,,Remaining openings cancelled,2026-10-05
+SH00595,J0221,R01,Open,2025-10-18,2026-02-04,Requirement approved,2026-10-05
+SH00596,J0221,R01,Closed - Unfilled,2026-02-04,,Remaining openings cancelled,2026-10-05
+SH00597,J0222,R02,Open,2025-10-18,2025-12-30,Requirement approved,2026-10-05
+SH00598,J0222,R02,Filled,2025-12-30,,All openings filled,2026-10-05
+SH00599,J0223,R03,Open,2025-10-18,2025-10-21,Requirement approved,2026-10-05
+SH00600,J0223,R03,On Hold,2025-10-21,2025-10-28,Budget review,2026-10-05
+SH00601,J0223,R03,Open,2025-10-28,2025-12-25,Hiring resumed,2026-10-05
+SH00602,J0223,R03,Filled,2025-12-25,,All openings filled,2026-10-05
+SH00603,J0224,R04,Open,2025-10-18,2025-10-21,Requirement approved,2026-10-05
+SH00604,J0224,R04,On Hold,2025-10-21,2025-10-28,Hiring manager unavailable,2026-10-05
+SH00605,J0224,R04,Open,2025-10-28,2025-12-22,Hiring resumed,2026-10-05
+SH00606,J0224,R04,Filled,2025-12-22,,All openings filled,2026-10-05
+SH00607,J0225,R05,Open,2025-10-18,2025-10-21,Requirement approved,2026-10-05
+SH00608,J0225,R05,On Hold,2025-10-21,2025-10-28,Hiring manager unavailable,2026-10-05
+SH00609,J0225,R05,Open,2025-10-28,2026-02-04,Hiring resumed,2026-10-05
+SH00610,J0225,R05,Closed - Unfilled,2026-02-04,,Remaining openings cancelled,2026-10-05
+SH00611,J0226,R06,Open,2025-10-18,2026-02-04,Requirement approved,2026-10-05
+SH00612,J0226,R06,Closed - Unfilled,2026-02-04,,Remaining openings cancelled,2026-10-05
+SH00613,J0227,R07,Open,2025-10-18,2025-10-21,Requirement approved,2026-10-05
+SH00614,J0227,R07,On Hold,2025-10-21,2025-10-28,Client approval pending,2026-10-05
+SH00615,J0227,R07,Open,2025-10-28,2026-02-04,Hiring resumed,2026-10-05
+SH00616,J0227,R07,Closed - Unfilled,2026-02-04,,Remaining openings cancelled,2026-10-05
+SH00617,J0228,R08,Open,2025-10-18,2026-02-04,Requirement approved,2026-10-05
+SH00618,J0228,R08,Closed - Unfilled,2026-02-04,,Remaining openings cancelled,2026-10-05
+SH00619,J0229,R09,Open,2025-10-18,2025-12-24,Requirement approved,2026-10-05
+SH00620,J0229,R09,Filled,2025-12-24,,All openings filled,2026-10-05
+SH00621,J0230,R10,Open,2025-10-18,2025-10-21,Requirement approved,2026-10-05
+SH00622,J0230,R10,On Hold,2025-10-21,2025-10-28,Client approval pending,2026-10-05
+SH00623,J0230,R10,Open,2025-10-28,2026-02-04,Hiring resumed,2026-10-05
+SH00624,J0230,R10,Closed - Unfilled,2026-02-04,,Remaining openings cancelled,2026-10-05
+SH00625,J0231,R01,Open,2025-11-17,2025-11-20,Requirement approved,2026-10-05
+SH00626,J0231,R01,On Hold,2025-11-20,2025-11-27,Client approval pending,2026-10-05
+SH00627,J0231,R01,Open,2025-11-27,2026-01-24,Hiring resumed,2026-10-05
+SH00628,J0231,R01,Filled,2026-01-24,,All openings filled,2026-10-05
+SH00629,J0232,R02,Open,2025-11-17,2026-01-27,Requirement approved,2026-10-05
+SH00630,J0232,R02,Filled,2026-01-27,,All openings filled,2026-10-05
+SH00631,J0233,R03,Open,2025-11-17,2026-01-29,Requirement approved,2026-10-05
+SH00632,J0233,R03,Filled,2026-01-29,,All openings filled,2026-10-05
+SH00633,J0234,R04,Open,2025-11-17,2025-11-20,Requirement approved,2026-10-05
+SH00634,J0234,R04,On Hold,2025-11-20,2025-11-27,Hiring manager unavailable,2026-10-05
+SH00635,J0234,R04,Open,2025-11-27,2026-03-06,Hiring resumed,2026-10-05
+SH00636,J0234,R04,Closed - Unfilled,2026-03-06,,Remaining openings cancelled,2026-10-05
+SH00637,J0235,R05,Open,2025-11-17,2026-01-27,Requirement approved,2026-10-05
+SH00638,J0235,R05,Filled,2026-01-27,,All openings filled,2026-10-05
+SH00639,J0236,R06,Open,2025-11-17,2026-01-27,Requirement approved,2026-10-05
+SH00640,J0236,R06,Filled,2026-01-27,,All openings filled,2026-10-05
+SH00641,J0237,R07,Open,2025-11-17,2026-01-25,Requirement approved,2026-10-05
+SH00642,J0237,R07,Filled,2026-01-25,,All openings filled,2026-10-05
+SH00643,J0238,R08,Open,2025-11-17,2025-11-20,Requirement approved,2026-10-05
+SH00644,J0238,R08,On Hold,2025-11-20,2025-11-27,Hiring manager unavailable,2026-10-05
+SH00645,J0238,R08,Open,2025-11-27,2026-02-04,Hiring resumed,2026-10-05
+SH00646,J0238,R08,Filled,2026-02-04,,All openings filled,2026-10-05
+SH00647,J0239,R09,Open,2025-11-17,2025-11-20,Requirement approved,2026-10-05
+SH00648,J0239,R09,On Hold,2025-11-20,2025-11-27,Hiring manager unavailable,2026-10-05
+SH00649,J0239,R09,Open,2025-11-27,2026-03-06,Hiring resumed,2026-10-05
+SH00650,J0239,R09,Closed - Unfilled,2026-03-06,,Remaining openings cancelled,2026-10-05
+SH00651,J0240,R10,Open,2025-11-17,2025-11-20,Requirement approved,2026-10-05
+SH00652,J0240,R10,On Hold,2025-11-20,2025-11-27,Budget review,2026-10-05
+SH00653,J0240,R10,Open,2025-11-27,2026-01-29,Hiring resumed,2026-10-05
+SH00654,J0240,R10,Filled,2026-01-29,,All openings filled,2026-10-05
+SH00655,J0241,R01,Open,2025-12-18,2026-04-06,Requirement approved,2026-10-05
+SH00656,J0241,R01,Closed - Unfilled,2026-04-06,,Remaining openings cancelled,2026-10-05
+SH00657,J0242,R02,Open,2025-12-18,2025-12-21,Requirement approved,2026-10-05
+SH00658,J0242,R02,On Hold,2025-12-21,2025-12-28,Budget review,2026-10-05
+SH00659,J0242,R02,Open,2025-12-28,2026-04-06,Hiring resumed,2026-10-05
+SH00660,J0242,R02,Closed - Unfilled,2026-04-06,,Remaining openings cancelled,2026-10-05
+SH00661,J0243,R03,Open,2025-12-18,2025-12-21,Requirement approved,2026-10-05
+SH00662,J0243,R03,On Hold,2025-12-21,2025-12-28,Client approval pending,2026-10-05
+SH00663,J0243,R03,Open,2025-12-28,2026-04-06,Hiring resumed,2026-10-05
+SH00664,J0243,R03,Closed - Unfilled,2026-04-06,,Remaining openings cancelled,2026-10-05
+SH00665,J0244,R04,Open,2025-12-18,2025-12-21,Requirement approved,2026-10-05
+SH00666,J0244,R04,On Hold,2025-12-21,2025-12-28,Hiring manager unavailable,2026-10-05
+SH00667,J0244,R04,Open,2025-12-28,2026-04-06,Hiring resumed,2026-10-05
+SH00668,J0244,R04,Closed - Unfilled,2026-04-06,,Remaining openings cancelled,2026-10-05
+SH00669,J0245,R05,Open,2025-12-18,2025-12-21,Requirement approved,2026-10-05
+SH00670,J0245,R05,On Hold,2025-12-21,2025-12-28,Hiring manager unavailable,2026-10-05
+SH00671,J0245,R05,Open,2025-12-28,2026-04-06,Hiring resumed,2026-10-05
+SH00672,J0245,R05,Closed - Unfilled,2026-04-06,,Remaining openings cancelled,2026-10-05
+SH00673,J0246,R06,Open,2025-12-18,2025-12-21,Requirement approved,2026-10-05
+SH00674,J0246,R06,On Hold,2025-12-21,2025-12-28,Hiring manager unavailable,2026-10-05
+SH00675,J0246,R06,Open,2025-12-28,2026-04-06,Hiring resumed,2026-10-05
+SH00676,J0246,R06,Closed - Unfilled,2026-04-06,,Remaining openings cancelled,2026-10-05
+SH00677,J0247,R07,Open,2025-12-18,2026-02-25,Requirement approved,2026-10-05
+SH00678,J0247,R07,Filled,2026-02-25,,All openings filled,2026-10-05
+SH00679,J0248,R08,Open,2025-12-18,2026-04-06,Requirement approved,2026-10-05
+SH00680,J0248,R08,Closed - Unfilled,2026-04-06,,Remaining openings cancelled,2026-10-05
+SH00681,J0249,R09,Open,2025-12-18,2025-12-21,Requirement approved,2026-10-05
+SH00682,J0249,R09,On Hold,2025-12-21,2025-12-28,Hiring manager unavailable,2026-10-05
+SH00683,J0249,R09,Open,2025-12-28,2026-04-06,Hiring resumed,2026-10-05
+SH00684,J0249,R09,Closed - Unfilled,2026-04-06,,Remaining openings cancelled,2026-10-05
+SH00685,J0250,R10,Open,2025-12-18,2026-03-08,Requirement approved,2026-10-05
+SH00686,J0250,R10,Filled,2026-03-08,,All openings filled,2026-10-05
+SH00687,J0251,R01,Open,2026-01-18,2026-01-21,Requirement approved,2026-10-05
+SH00688,J0251,R01,On Hold,2026-01-21,2026-01-28,Client approval pending,2026-10-05
+SH00689,J0251,R01,Open,2026-01-28,2026-05-07,Hiring resumed,2026-10-05
+SH00690,J0251,R01,Closed - Unfilled,2026-05-07,,Remaining openings cancelled,2026-10-05
+SH00691,J0252,R02,Open,2026-01-18,2026-05-07,Requirement approved,2026-10-05
+SH00692,J0252,R02,Closed - Unfilled,2026-05-07,,Remaining openings cancelled,2026-10-05
+SH00693,J0253,R03,Open,2026-01-18,2026-05-07,Requirement approved,2026-10-05
+SH00694,J0253,R03,Closed - Unfilled,2026-05-07,,Remaining openings cancelled,2026-10-05
+SH00695,J0254,R04,Open,2026-01-18,2026-01-21,Requirement approved,2026-10-05
+SH00696,J0254,R04,On Hold,2026-01-21,2026-01-28,Budget review,2026-10-05
+SH00697,J0254,R04,Open,2026-01-28,2026-04-04,Hiring resumed,2026-10-05
+SH00698,J0254,R04,Filled,2026-04-04,,All openings filled,2026-10-05
+SH00699,J0255,R05,Open,2026-01-18,2026-01-21,Requirement approved,2026-10-05
+SH00700,J0255,R05,On Hold,2026-01-21,2026-01-28,Client approval pending,2026-10-05
+SH00701,J0255,R05,Open,2026-01-28,2026-03-23,Hiring resumed,2026-10-05
+SH00702,J0255,R05,Filled,2026-03-23,,All openings filled,2026-10-05
+SH00703,J0256,R06,Open,2026-01-18,2026-03-28,Requirement approved,2026-10-05
+SH00704,J0256,R06,Filled,2026-03-28,,All openings filled,2026-10-05
+SH00705,J0257,R07,Open,2026-01-18,2026-01-21,Requirement approved,2026-10-05
+SH00706,J0257,R07,On Hold,2026-01-21,2026-01-28,Hiring manager unavailable,2026-10-05
+SH00707,J0257,R07,Open,2026-01-28,2026-05-07,Hiring resumed,2026-10-05
+SH00708,J0257,R07,Closed - Unfilled,2026-05-07,,Remaining openings cancelled,2026-10-05
+SH00709,J0258,R08,Open,2026-01-18,2026-04-09,Requirement approved,2026-10-05
+SH00710,J0258,R08,Filled,2026-04-09,,All openings filled,2026-10-05
+SH00711,J0259,R09,Open,2026-01-18,2026-01-21,Requirement approved,2026-10-05
+SH00712,J0259,R09,On Hold,2026-01-21,2026-01-28,Client approval pending,2026-10-05
+SH00713,J0259,R09,Open,2026-01-28,2026-05-07,Hiring resumed,2026-10-05
+SH00714,J0259,R09,Closed - Unfilled,2026-05-07,,Remaining openings cancelled,2026-10-05
+SH00715,J0260,R10,Open,2026-01-18,2026-03-30,Requirement approved,2026-10-05
+SH00716,J0260,R10,Filled,2026-03-30,,All openings filled,2026-10-05
+SH00717,J0261,R01,Open,2026-02-15,2026-06-04,Requirement approved,2026-10-05
+SH00718,J0261,R01,Closed - Unfilled,2026-06-04,,Remaining openings cancelled,2026-10-05
+SH00719,J0262,R02,Open,2026-02-15,2026-04-26,Requirement approved,2026-10-05
+SH00720,J0262,R02,Filled,2026-04-26,,All openings filled,2026-10-05
+SH00721,J0263,R03,Open,2026-02-15,2026-04-28,Requirement approved,2026-10-05
+SH00722,J0263,R03,Filled,2026-04-28,,All openings filled,2026-10-05
+SH00723,J0264,R04,Open,2026-02-15,2026-04-23,Requirement approved,2026-10-05
+SH00724,J0264,R04,Filled,2026-04-23,,All openings filled,2026-10-05
+SH00725,J0265,R05,Open,2026-02-15,2026-02-18,Requirement approved,2026-10-05
+SH00726,J0265,R05,On Hold,2026-02-18,2026-02-25,Budget review,2026-10-05
+SH00727,J0265,R05,Open,2026-02-25,2026-04-24,Hiring resumed,2026-10-05
+SH00728,J0265,R05,Filled,2026-04-24,,All openings filled,2026-10-05
+SH00729,J0266,R06,Open,2026-02-15,2026-02-18,Requirement approved,2026-10-05
+SH00730,J0266,R06,On Hold,2026-02-18,2026-02-25,Budget review,2026-10-05
+SH00731,J0266,R06,Open,2026-02-25,2026-05-02,Hiring resumed,2026-10-05
+SH00732,J0266,R06,Filled,2026-05-02,,All openings filled,2026-10-05
+SH00733,J0267,R07,Open,2026-02-15,2026-02-18,Requirement approved,2026-10-05
+SH00734,J0267,R07,On Hold,2026-02-18,2026-02-25,Hiring manager unavailable,2026-10-05
+SH00735,J0267,R07,Open,2026-02-25,2026-06-04,Hiring resumed,2026-10-05
+SH00736,J0267,R07,Closed - Unfilled,2026-06-04,,Remaining openings cancelled,2026-10-05
+SH00737,J0268,R08,Open,2026-02-15,2026-02-18,Requirement approved,2026-10-05
+SH00738,J0268,R08,On Hold,2026-02-18,2026-02-25,Budget review,2026-10-05
+SH00739,J0268,R08,Open,2026-02-25,2026-06-04,Hiring resumed,2026-10-05
+SH00740,J0268,R08,Closed - Unfilled,2026-06-04,,Remaining openings cancelled,2026-10-05
+SH00741,J0269,R09,Open,2026-02-15,2026-02-18,Requirement approved,2026-10-05
+SH00742,J0269,R09,On Hold,2026-02-18,2026-02-25,Budget review,2026-10-05
+SH00743,J0269,R09,Open,2026-02-25,2026-06-04,Hiring resumed,2026-10-05
+SH00744,J0269,R09,Closed - Unfilled,2026-06-04,,Remaining openings cancelled,2026-10-05
+SH00745,J0270,R10,Open,2026-02-15,2026-02-18,Requirement approved,2026-10-05
+SH00746,J0270,R10,On Hold,2026-02-18,2026-02-25,Budget review,2026-10-05
+SH00747,J0270,R10,Open,2026-02-25,2026-06-04,Hiring resumed,2026-10-05
+SH00748,J0270,R10,Closed - Unfilled,2026-06-04,,Remaining openings cancelled,2026-10-05
+SH00749,J0271,R01,Open,2026-03-18,2026-07-05,Requirement approved,2026-10-05
+SH00750,J0271,R01,Closed - Unfilled,2026-07-05,,Remaining openings cancelled,2026-10-05
+SH00751,J0272,R02,Open,2026-03-18,2026-03-21,Requirement approved,2026-10-05
+SH00752,J0272,R02,On Hold,2026-03-21,2026-03-28,Hiring manager unavailable,2026-10-05
+SH00753,J0272,R02,Open,2026-03-28,2026-05-21,Hiring resumed,2026-10-05
+SH00754,J0272,R02,Filled,2026-05-21,,All openings filled,2026-10-05
+SH00755,J0273,R03,Open,2026-03-18,2026-03-21,Requirement approved,2026-10-05
+SH00756,J0273,R03,On Hold,2026-03-21,2026-03-28,Budget review,2026-10-05
+SH00757,J0273,R03,Open,2026-03-28,2026-07-05,Hiring resumed,2026-10-05
+SH00758,J0273,R03,Closed - Unfilled,2026-07-05,,Remaining openings cancelled,2026-10-05
+SH00759,J0274,R04,Open,2026-03-18,2026-03-21,Requirement approved,2026-10-05
+SH00760,J0274,R04,On Hold,2026-03-21,2026-03-28,Hiring manager unavailable,2026-10-05
+SH00761,J0274,R04,Open,2026-03-28,2026-05-25,Hiring resumed,2026-10-05
+SH00762,J0274,R04,Filled,2026-05-25,,All openings filled,2026-10-05
+SH00763,J0275,R05,Open,2026-03-18,2026-05-27,Requirement approved,2026-10-05
+SH00764,J0275,R05,Filled,2026-05-27,,All openings filled,2026-10-05
+SH00765,J0276,R06,Open,2026-03-18,2026-03-21,Requirement approved,2026-10-05
+SH00766,J0276,R06,On Hold,2026-03-21,2026-03-28,Budget review,2026-10-05
+SH00767,J0276,R06,Open,2026-03-28,2026-05-28,Hiring resumed,2026-10-05
+SH00768,J0276,R06,Filled,2026-05-28,,All openings filled,2026-10-05
+SH00769,J0277,R07,Open,2026-03-18,2026-07-05,Requirement approved,2026-10-05
+SH00770,J0277,R07,Closed - Unfilled,2026-07-05,,Remaining openings cancelled,2026-10-05
+SH00771,J0278,R08,Open,2026-03-18,2026-07-05,Requirement approved,2026-10-05
+SH00772,J0278,R08,Closed - Unfilled,2026-07-05,,Remaining openings cancelled,2026-10-05
+SH00773,J0279,R09,Open,2026-03-18,2026-03-21,Requirement approved,2026-10-05
+SH00774,J0279,R09,On Hold,2026-03-21,2026-03-28,Budget review,2026-10-05
+SH00775,J0279,R09,Open,2026-03-28,2026-07-05,Hiring resumed,2026-10-05
+SH00776,J0279,R09,Closed - Unfilled,2026-07-05,,Remaining openings cancelled,2026-10-05
+SH00777,J0280,R10,Open,2026-03-18,2026-03-21,Requirement approved,2026-10-05
+SH00778,J0280,R10,On Hold,2026-03-21,2026-03-28,Client approval pending,2026-10-05
+SH00779,J0280,R10,Open,2026-03-28,2026-07-05,Hiring resumed,2026-10-05
+SH00780,J0280,R10,Closed - Unfilled,2026-07-05,,Remaining openings cancelled,2026-10-05
+SH00781,J0281,R01,Open,2026-04-17,2026-04-20,Requirement approved,2026-10-05
+SH00782,J0281,R01,On Hold,2026-04-20,2026-04-27,Client approval pending,2026-10-05
+SH00783,J0281,R01,Open,2026-04-27,2026-08-04,Hiring resumed,2026-10-05
+SH00784,J0281,R01,Closed - Unfilled,2026-08-04,,Remaining openings cancelled,2026-10-05
+SH00785,J0282,R02,Open,2026-04-17,2026-04-20,Requirement approved,2026-10-05
+SH00786,J0282,R02,On Hold,2026-04-20,2026-04-27,Budget review,2026-10-05
+SH00787,J0282,R02,Open,2026-04-27,2026-06-27,Hiring resumed,2026-10-05
+SH00788,J0282,R02,Filled,2026-06-27,,All openings filled,2026-10-05
+SH00789,J0283,R03,Open,2026-04-17,2026-04-20,Requirement approved,2026-10-05
+SH00790,J0283,R03,On Hold,2026-04-20,2026-04-27,Client approval pending,2026-10-05
+SH00791,J0283,R03,Open,2026-04-27,2026-08-04,Hiring resumed,2026-10-05
+SH00792,J0283,R03,Closed - Unfilled,2026-08-04,,Remaining openings cancelled,2026-10-05
+SH00793,J0284,R04,Open,2026-04-17,2026-06-29,Requirement approved,2026-10-05
+SH00794,J0284,R04,Filled,2026-06-29,,All openings filled,2026-10-05
+SH00795,J0285,R05,Open,2026-04-17,2026-04-20,Requirement approved,2026-10-05
+SH00796,J0285,R05,On Hold,2026-04-20,2026-04-27,Budget review,2026-10-05
+SH00797,J0285,R05,Open,2026-04-27,2026-06-25,Hiring resumed,2026-10-05
+SH00798,J0285,R05,Filled,2026-06-25,,All openings filled,2026-10-05
+SH00799,J0286,R06,Open,2026-04-17,2026-06-27,Requirement approved,2026-10-05
+SH00800,J0286,R06,Filled,2026-06-27,,All openings filled,2026-10-05
+SH00801,J0287,R07,Open,2026-04-17,2026-04-20,Requirement approved,2026-10-05
+SH00802,J0287,R07,On Hold,2026-04-20,2026-04-27,Client approval pending,2026-10-05
+SH00803,J0287,R07,Open,2026-04-27,2026-06-25,Hiring resumed,2026-10-05
+SH00804,J0287,R07,Filled,2026-06-25,,All openings filled,2026-10-05
+SH00805,J0288,R08,Open,2026-04-17,2026-04-20,Requirement approved,2026-10-05
+SH00806,J0288,R08,On Hold,2026-04-20,2026-04-27,Budget review,2026-10-05
+SH00807,J0288,R08,Open,2026-04-27,2026-06-26,Hiring resumed,2026-10-05
+SH00808,J0288,R08,Filled,2026-06-26,,All openings filled,2026-10-05
+SH00809,J0289,R09,Open,2026-04-17,2026-06-24,Requirement approved,2026-10-05
+SH00810,J0289,R09,Filled,2026-06-24,,All openings filled,2026-10-05
+SH00811,J0290,R10,Open,2026-04-17,2026-06-26,Requirement approved,2026-10-05
+SH00812,J0290,R10,Filled,2026-06-26,,All openings filled,2026-10-05
+SH00813,J0291,R01,Open,2026-05-18,2026-07-24,Requirement approved,2026-10-05
+SH00814,J0291,R01,Filled,2026-07-24,,All openings filled,2026-10-05
+SH00815,J0292,R02,Open,2026-05-18,2026-07-25,Requirement approved,2026-10-05
+SH00816,J0292,R02,Filled,2026-07-25,,All openings filled,2026-10-05
+SH00817,J0293,R03,Open,2026-05-18,2026-05-21,Requirement approved,2026-10-05
+SH00818,J0293,R03,On Hold,2026-05-21,2026-05-28,Client approval pending,2026-10-05
+SH00819,J0293,R03,Open,2026-05-28,2026-09-04,Hiring resumed,2026-10-05
+SH00820,J0293,R03,Closed - Unfilled,2026-09-04,,Remaining openings cancelled,2026-10-05
+SH00821,J0294,R04,Open,2026-05-18,2026-05-21,Requirement approved,2026-10-05
+SH00822,J0294,R04,On Hold,2026-05-21,2026-05-28,Client approval pending,2026-10-05
+SH00823,J0294,R04,Open,2026-05-28,2026-07-20,Hiring resumed,2026-10-05
+SH00824,J0294,R04,Filled,2026-07-20,,All openings filled,2026-10-05
+SH00825,J0295,R05,Open,2026-05-18,2026-05-21,Requirement approved,2026-10-05
+SH00826,J0295,R05,On Hold,2026-05-21,2026-05-28,Hiring manager unavailable,2026-10-05
+SH00827,J0295,R05,Open,2026-05-28,2026-09-04,Hiring resumed,2026-10-05
+SH00828,J0295,R05,Closed - Unfilled,2026-09-04,,Remaining openings cancelled,2026-10-05
+SH00829,J0296,R06,Open,2026-05-18,2026-09-04,Requirement approved,2026-10-05
+SH00830,J0296,R06,Closed - Unfilled,2026-09-04,,Remaining openings cancelled,2026-10-05
+SH00831,J0297,R07,Open,2026-05-18,2026-05-21,Requirement approved,2026-10-05
+SH00832,J0297,R07,On Hold,2026-05-21,2026-05-28,Budget review,2026-10-05
+SH00833,J0297,R07,Open,2026-05-28,2026-07-24,Hiring resumed,2026-10-05
+SH00834,J0297,R07,Filled,2026-07-24,,All openings filled,2026-10-05
+SH00835,J0298,R08,Open,2026-05-18,2026-05-21,Requirement approved,2026-10-05
+SH00836,J0298,R08,On Hold,2026-05-21,2026-05-28,Client approval pending,2026-10-05
+SH00837,J0298,R08,Open,2026-05-28,2026-09-04,Hiring resumed,2026-10-05
+SH00838,J0298,R08,Closed - Unfilled,2026-09-04,,Remaining openings cancelled,2026-10-05
+SH00839,J0299,R09,Open,2026-05-18,2026-07-29,Requirement approved,2026-10-05
+SH00840,J0299,R09,Filled,2026-07-29,,All openings filled,2026-10-05
+SH00841,J0300,R10,Open,2026-05-18,2026-05-21,Requirement approved,2026-10-05
+SH00842,J0300,R10,On Hold,2026-05-21,2026-05-28,Budget review,2026-10-05
+SH00843,J0300,R10,Open,2026-05-28,2026-08-05,Hiring resumed,2026-10-05
+SH00844,J0300,R10,Filled,2026-08-05,,All openings filled,2026-10-05
+SH00845,J0301,R01,Open,2026-06-17,2026-06-20,Requirement approved,2026-10-05
+SH00846,J0301,R01,On Hold,2026-06-20,2026-06-27,Client approval pending,2026-10-05
+SH00847,J0301,R01,Open,2026-06-27,2026-08-26,Hiring resumed,2026-10-05
+SH00848,J0301,R01,Filled,2026-08-26,,All openings filled,2026-10-05
+SH00849,J0302,R02,Open,2026-06-17,,Requirement approved,2026-10-05
+SH00850,J0303,R03,Open,2026-06-17,2026-08-25,Requirement approved,2026-10-05
+SH00851,J0303,R03,Filled,2026-08-25,,All openings filled,2026-10-05
+SH00852,J0304,R04,Open,2026-06-17,,Requirement approved,2026-10-05
+SH00853,J0305,R05,Open,2026-06-17,2026-08-25,Requirement approved,2026-10-05
+SH00854,J0305,R05,On Hold,2026-08-25,,Client requested hiring pause,2026-10-05
+SH00855,J0306,R06,Open,2026-06-17,2026-08-25,Requirement approved,2026-10-05
+SH00856,J0306,R06,Filled,2026-08-25,,All openings filled,2026-10-05
+SH00857,J0307,R07,Open,2026-06-17,2026-06-20,Requirement approved,2026-10-05
+SH00858,J0307,R07,On Hold,2026-06-20,2026-06-27,Budget review,2026-10-05
+SH00859,J0307,R07,Open,2026-06-27,,Hiring resumed,2026-10-05
+SH00860,J0308,R08,Open,2026-06-17,,Requirement approved,2026-10-05
+SH00861,J0309,R09,Open,2026-06-17,2026-08-29,Requirement approved,2026-10-05
+SH00862,J0309,R09,Filled,2026-08-29,,All openings filled,2026-10-05
+SH00863,J0310,R10,Open,2026-06-17,,Requirement approved,2026-10-05
+SH00864,J0311,R01,Open,2026-07-18,2026-07-21,Requirement approved,2026-10-05
+SH00865,J0311,R01,On Hold,2026-07-21,2026-07-28,Budget review,2026-10-05
+SH00866,J0311,R01,Open,2026-07-28,,Hiring resumed,2026-10-05
+SH00867,J0312,R02,Open,2026-07-18,,Requirement approved,2026-10-05
+SH00868,J0313,R03,Open,2026-07-18,2026-09-25,Requirement approved,2026-10-05
+SH00869,J0313,R03,Filled,2026-09-25,,All openings filled,2026-10-05
+SH00870,J0314,R04,Open,2026-07-18,2026-07-21,Requirement approved,2026-10-05
+SH00871,J0314,R04,On Hold,2026-07-21,2026-07-28,Hiring manager unavailable,2026-10-05
+SH00872,J0314,R04,Open,2026-07-28,,Hiring resumed,2026-10-05
+SH00873,J0315,R05,Open,2026-07-18,2026-07-21,Requirement approved,2026-10-05
+SH00874,J0315,R05,On Hold,2026-07-21,2026-07-28,Hiring manager unavailable,2026-10-05
+SH00875,J0315,R05,Open,2026-07-28,,Hiring resumed,2026-10-05
+SH00876,J0316,R06,Open,2026-07-18,2026-09-20,Requirement approved,2026-10-05
+SH00877,J0316,R06,Filled,2026-09-20,,All openings filled,2026-10-05
+SH00878,J0317,R07,Open,2026-07-18,2026-07-21,Requirement approved,2026-10-05
+SH00879,J0317,R07,On Hold,2026-07-21,2026-07-28,Budget review,2026-10-05
+SH00880,J0317,R07,Open,2026-07-28,2026-09-29,Hiring resumed,2026-10-05
+SH00881,J0317,R07,On Hold,2026-09-29,,Client requested hiring pause,2026-10-05
+SH00882,J0318,R08,Open,2026-07-18,2026-09-22,Requirement approved,2026-10-05
+SH00883,J0318,R08,Filled,2026-09-22,,All openings filled,2026-10-05
+SH00884,J0319,R09,Open,2026-07-18,2026-09-30,Requirement approved,2026-10-05
+SH00885,J0319,R09,Filled,2026-09-30,,All openings filled,2026-10-05
+SH00886,J0320,R10,Open,2026-07-18,,Requirement approved,2026-10-05
+SH00887,J0321,R01,Open,2026-08-18,2026-10-05,Requirement approved,2026-10-05
+SH00888,J0321,R01,On Hold,2026-10-05,,Client requested hiring pause,2026-10-05
+SH00889,J0322,R02,Open,2026-08-18,,Requirement approved,2026-10-05
+SH00890,J0323,R03,Open,2026-08-18,2026-08-21,Requirement approved,2026-10-05
+SH00891,J0323,R03,On Hold,2026-08-21,2026-08-28,Client approval pending,2026-10-05
+SH00892,J0323,R03,Open,2026-08-28,,Hiring resumed,2026-10-05
+SH00893,J0324,R04,Open,2026-08-18,2026-08-21,Requirement approved,2026-10-05
+SH00894,J0324,R04,On Hold,2026-08-21,2026-08-28,Client approval pending,2026-10-05
+SH00895,J0324,R04,Open,2026-08-28,,Hiring resumed,2026-10-05
+SH00896,J0325,R05,Open,2026-08-18,2026-10-05,Requirement approved,2026-10-05
+SH00897,J0325,R05,On Hold,2026-10-05,,Client requested hiring pause,2026-10-05
+SH00898,J0326,R06,Open,2026-08-18,,Requirement approved,2026-10-05
+SH00899,J0327,R07,Open,2026-08-18,,Requirement approved,2026-10-05
+SH00900,J0328,R08,Open,2026-08-18,2026-08-21,Requirement approved,2026-10-05
+SH00901,J0328,R08,On Hold,2026-08-21,2026-08-28,Client approval pending,2026-10-05
+SH00902,J0328,R08,Open,2026-08-28,,Hiring resumed,2026-10-05
+SH00903,J0329,R09,Open,2026-08-18,2026-10-05,Requirement approved,2026-10-05
+SH00904,J0329,R09,On Hold,2026-10-05,,Client requested hiring pause,2026-10-05
+SH00905,J0330,R10,Open,2026-08-18,2026-08-21,Requirement approved,2026-10-05
+SH00906,J0330,R10,On Hold,2026-08-21,2026-08-28,Budget review,2026-10-05
+SH00907,J0330,R10,Open,2026-08-28,,Hiring resumed,2026-10-05
+SH00908,J0331,R01,Open,2026-09-17,2026-09-20,Requirement approved,2026-10-05
+SH00909,J0331,R01,On Hold,2026-09-20,2026-09-27,Budget review,2026-10-05
+SH00910,J0331,R01,Open,2026-09-27,,Hiring resumed,2026-10-05
+SH00911,J0332,R02,Open,2026-09-17,,Requirement approved,2026-10-05
+SH00912,J0333,R03,Open,2026-09-17,2026-10-05,Requirement approved,2026-10-05
+SH00913,J0333,R03,On Hold,2026-10-05,,Client requested hiring pause,2026-10-05
+SH00914,J0334,R04,Open,2026-09-17,,Requirement approved,2026-10-05
+SH00915,J0335,R05,Open,2026-09-17,,Requirement approved,2026-10-05
+SH00916,J0336,R06,Open,2026-09-17,,Requirement approved,2026-10-05
+SH00917,J0337,R07,Open,2026-09-17,2026-10-05,Requirement approved,2026-10-05
+SH00918,J0337,R07,On Hold,2026-10-05,,Client requested hiring pause,2026-10-05
+SH00919,J0338,R08,Open,2026-09-17,,Requirement approved,2026-10-05
+SH00920,J0339,R09,Open,2026-09-17,,Requirement approved,2026-10-05
+SH00921,J0340,R10,Open,2026-09-17,,Requirement approved,2026-10-05
